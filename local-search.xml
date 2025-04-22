@@ -4,6 +4,35 @@
   
   
   <entry>
+    <title>跑步在Markdown中的应用范例</title>
+    <link href="/2025/04/22/%E8%B7%91%E6%AD%A5%E5%9C%A8Markdown%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%E8%8C%83%E4%BE%8B/"/>
+    <url>/2025/04/22/%E8%B7%91%E6%AD%A5%E5%9C%A8Markdown%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%E8%8C%83%E4%BE%8B/</url>
+    
+    <content type="html"><![CDATA[<h2 id="跑步数据分析"><a href="#跑步数据分析" class="headerlink" title="跑步数据分析"></a>跑步数据分析</h2><p>以下是一个简单的跑步数据分析程序：</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">def</span> <span class="hljs-title function_">analyze_running_data</span>(<span class="hljs-params">distance, time, heartrate</span>):<br>    pace = time / distance<br>    calories = distance * <span class="hljs-number">60</span>  <span class="hljs-comment"># 简单估算</span><br>    <span class="hljs-keyword">return</span> &#123;<br>        <span class="hljs-string">&quot;配速&quot;</span>: <span class="hljs-string">f&quot;<span class="hljs-subst">&#123;pace:<span class="hljs-number">.2</span>f&#125;</span>分钟/公里&quot;</span>,<br>        <span class="hljs-string">&quot;消耗卡路里&quot;</span>: <span class="hljs-string">f&quot;<span class="hljs-subst">&#123;calories&#125;</span>千卡&quot;</span>,<br>        <span class="hljs-string">&quot;平均心率&quot;</span>: <span class="hljs-string">f&quot;<span class="hljs-subst">&#123;heartrate&#125;</span>次/分&quot;</span><br>    &#125;<br></code></pre></td></tr></table></figure><h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs javascript"><span class="hljs-comment">// 记录每日跑步数据</span><br><span class="hljs-keyword">const</span> runningLog = &#123;<br>    <span class="hljs-attr">date</span>: <span class="hljs-string">&#x27;2025-04-22&#x27;</span>,<br>    <span class="hljs-attr">distance</span>: <span class="hljs-number">5</span>,<br>    <span class="hljs-attr">time</span>: <span class="hljs-number">30</span>,<br>    <span class="hljs-attr">heartrate</span>: <span class="hljs-number">150</span><br>&#125;;<br></code></pre></td></tr></table></figure><h2 id="跑步图片展示"><a href="#跑步图片展示" class="headerlink" title="跑步图片展示"></a>跑步图片展示</h2><div class="group-image-container"><div class="group-image-row"><div class="group-image-wrap"><img src="https://image.pollinations.ai/prompt/running%20outdoors%20scenic%20view" alt="跑步户外场景"></div><div class="group-image-wrap"><img src="https://image.pollinations.ai/prompt/running%20gear%20essentials" alt="跑步装备"></div><div class="group-image-wrap"><img src="https://image.pollinations.ai/prompt/morning%20runner%20silhouette" alt="晨跑剪影"></div></div><div class="group-image-row"><div class="group-image-wrap"><img src="https://image.pollinations.ai/prompt/cartoonlike%20people%20running%20outdoors%2C%20life%20attitude%2C%20running%20advice" alt="跑步姿势"></div><div class="group-image-wrap"><img src="https://image.pollinations.ai/prompt/marathon%20finish%20celebration" alt="完赛庆祝"></div></div></div><h2 id="训练计划展示"><a href="#训练计划展示" class="headerlink" title="训练计划展示"></a>训练计划展示</h2><div class="group-image-container"><div class="group-image-row"><div class="group-image-wrap"><img src="https://image.pollinations.ai/prompt/running%20warmup%20exercises" alt="热身准备"></div><div class="group-image-wrap"><img src="https://image.pollinations.ai/prompt/interval%20training%20running" alt="间歇训练"></div><div class="group-image-wrap"><img src="https://image.pollinations.ai/prompt/running%20outdoors%20scenic%20view" alt="拉伸放松"></div></div></div><h2 id="跑步训练流程"><a href="#跑步训练流程" class="headerlink" title="跑步训练流程"></a>跑步训练流程</h2><pre><code class="mermaid" >graph TD    A[开始训练] --> B{是否热身}    B -->|是| C[开始跑步]    B -->|否| D[进行热身]    D --> C    C --> E[监控心率]    E -->|心率正常| F[继续跑步]    E -->|心率过高| G[降低配速]    F --> H[完成训练]    G --> H</code></pre><h2 id="每周训练计划"><a href="#每周训练计划" class="headerlink" title="每周训练计划"></a>每周训练计划</h2><pre><code class="mermaid" >gantt    title 一周训练计划    dateFormat  YYYY-MM-DD    section 训练安排    5公里慢跑    :a1, 2025-04-22, 1d    间歇训练     :a2, after a1, 1d    休息        :a3, after a2, 1d    10公里长跑   :a4, after a3, 1d    恢复跑      :a5, after a4, 1d</code></pre><h2 id="训练强度关系"><a href="#训练强度关系" class="headerlink" title="训练强度关系"></a>训练强度关系</h2><pre><code class=" mermaid">classDiagram    class 训练计划&#123;        +String 类型        +int 距离        +int 时长        +计算配速()    &#125;    class 慢跑&#123;        +低强度        +长时间    &#125;    class 间歇&#123;        +高强度        +短时间    &#125;    训练计划 &lt;|-- 慢跑    训练计划 &lt;|-- 间歇</code></pre>]]></content>
+    
+    
+    <categories>
+      
+      <category>体育</category>
+      
+      <category>运动</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>跑步</tag>
+      
+      <tag>Markdown</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>你的身体和灵魂，总要有一个在路上</title>
     <link href="/2025/04/22/%E4%BD%A0%E7%9A%84%E8%BA%AB%E4%BD%93%E5%92%8C%E7%81%B5%E9%AD%82%EF%BC%8C%E6%80%BB%E8%A6%81%E6%9C%89%E4%B8%80%E4%B8%AA%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
     <url>/2025/04/22/%E4%BD%A0%E7%9A%84%E8%BA%AB%E4%BD%93%E5%92%8C%E7%81%B5%E9%AD%82%EF%BC%8C%E6%80%BB%E8%A6%81%E6%9C%89%E4%B8%80%E4%B8%AA%E5%9C%A8%E8%B7%AF%E4%B8%8A/</url>
