@@ -28,11 +28,11 @@
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://image.pollinations.ai/prompt/%E8%B7%91%E6%AD%A5%E7%9A%84%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E5%B0%81%E9%9D%A2">
 <meta property="article:published_time" content="2025-04-25T04:39:40.000Z">
-<meta property="article:modified_time" content="2025-04-25T04:42:21.129Z">
+<meta property="article:modified_time" content="2025-04-27T00:43:57.111Z">
 <meta property="article:author" content="跑者之心">
 <meta property="article:tag" content="跑步">
-<meta property="article:tag" content="健康">
 <meta property="article:tag" content="运动">
+<meta property="article:tag" content="健康">
 <meta property="article:tag" content="自我提升">
 <meta property="article:tag" content="running">
 <meta property="article:tag" content="health">
@@ -245,7 +245,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          606 字
+          882 字
         
       </span>
     
@@ -256,7 +256,7 @@
         
         
         
-          6 分钟
+          8 分钟
         
       </span>
     
@@ -306,7 +306,7 @@
         aria-expanded="true"
       >
         运动
-        <span class="list-group-count">(39)</span>
+        <span class="list-group-count">(42)</span>
         <i class="iconfont icon-arrowright"></i>
       </a>
       
@@ -635,6 +635,24 @@
     
       
       
+        <a href="/2025/04/27/%E8%B7%91%E6%AD%A5%E8%AE%A9%E6%88%91%E4%BB%AC%E6%98%8E%E7%99%BD%EF%BC%8C%E7%94%9F%E6%B4%BB%E7%9A%84%E6%AF%8F%E4%B8%80%E6%AD%A5%E9%83%BD%E8%A6%81%E8%B8%8F%E5%AE%9E%EF%BC%8C%E6%89%8D%E8%83%BD%E8%B5%B0%E5%BE%97%E6%9B%B4%E8%BF%9C%E3%80%82/" title="跑步让我们明白，生活的每一步都要踏实，才能走得更远。"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">跑步让我们明白，生活的每一步都要踏实，才能走得更远。</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2025/04/27/%E8%B7%91%E6%AD%A5%E9%9F%B3%E4%B9%90%E5%A4%A7%E6%8E%A8%E8%8D%90%EF%BC%9A%E8%AE%A9%E8%8A%82%E5%A5%8F%E5%B8%A6%E5%8A%A8%E4%BD%A0%E7%9A%84%E8%84%9A%E6%AD%A5/" title="跑步音乐大推荐：让节奏带动你的脚步"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">跑步音乐大推荐：让节奏带动你的脚步</span>
+        </a>
+      
+    
+      
+      
         <a href="/2025/04/24/%E8%BF%90%E5%8A%A8%E7%9A%84%E7%B4%AF%EF%BC%8C%E6%8D%A2%E6%9D%A5%E7%9A%84%E6%98%AF%E4%BA%BA%E7%94%9F%E4%B8%8D%E7%B4%AF%E3%80%82/" title="运动的累，换来的是人生不累。"
            class="list-group-item list-group-item-action
            ">
@@ -648,6 +666,15 @@
            class="list-group-item list-group-item-action
            ">
           <span class="category-post">通过跑步，释放压力，获得内心的平静：跑出你的心之绿洲</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2025/04/27/%E9%81%BF%E5%BC%80%E8%BF%99%E4%BA%9B%E8%AF%AF%E5%8C%BA%EF%BC%8C%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%B7%91%E6%AD%A5%E4%B9%8B%E8%B7%AF%E6%9B%B4%E9%A1%BA%E7%95%85/" title="避开这些误区，让你的跑步之路更顺畅"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">避开这些误区，让你的跑步之路更顺畅</span>
         </a>
       
     
@@ -693,6 +720,95 @@
               <div class="markdown-body">
                 
                 <p>你是否总是想开始跑步，但总是觉得无从下手？别担心，你不是一个人！很多人都面临同样的问题。本文将帮助你制定一个30天的跑步计划，让你轻松入门，爱上跑步！</p>
+<div class="habit-tracker card p-3 my-4">
+  <h4 class="text-center mb-3">30天跑步习惯养成追踪器 📊</h4>
+  
+  <div class="form-group mb-3">
+    <label for="currentDay">当前天数:</label>
+    <input type="range" class="form-range" id="currentDay" min="1" max="30" value="1">
+    <span id="dayValue">第1天</span>
+  </div>
+
+  <div class="progress mb-3" style="height: 25px;">
+    <div class="progress-bar" role="progressbar" style="width: 3.33%;" id="progressBar">3.33%</div>
+  </div>
+
+  <div class="weekly-goals mt-4">
+    <h5>本周目标：<span id="weeklyGoal"></span></h5>
+    <div id="weeklyTips" class="alert alert-info"></div>
+  </div>
+
+  <div class="form-check mb-3">
+    <input class="form-check-input" type="checkbox" id="todayComplete">
+    <label class="form-check-label" for="todayComplete">
+      今天的跑步计划已完成 ✅
+    </label>
+  </div>
+
+<p>  <button class="btn btn-primary" onclick="updateProgress()">更新进度</button></p>
+  <div class="achievement mt-3" id="achievement"></div>
+</div>
+
+<script>
+document.getElementById('currentDay').addEventListener('input', function() {
+    const day = parseInt(this.value);
+    document.getElementById('dayValue').textContent = `第${day}天`;
+    updateWeeklyGoals(day);
+    updateProgress();
+});
+
+function updateWeeklyGoals(day) {
+    const week = Math.ceil(day / 7);
+    let goals = '';
+    let tips = '';
+    
+    switch(week) {
+        case 1:
+            goals = '每次15-20分钟，每周3次';
+            tips = '重点是建立习惯，不要追求速度和距离';
+            break;
+        case 2:
+            goals = '每次20-30分钟，每周4次';
+            tips = '可以尝试不同的跑步路线，保持新鲜感';
+            break;
+        case 3:
+            goals = '尝试间歇跑，快跑1分钟+慢跑2分钟';
+            tips = '注意热身和放松，控制好节奏';
+            break;
+        case 4:
+            goals = '保持习惯，享受跑步';
+            tips = '可以考虑参加跑步活动或邀请朋友一起跑';
+            break;
+    }
+    
+    document.getElementById('weeklyGoal').textContent = goals;
+    document.getElementById('weeklyTips').textContent = tips;
+}
+
+function updateProgress() {
+    const day = parseInt(document.getElementById('currentDay').value);
+    const completed = document.getElementById('todayComplete').checked;
+    const progress = (day / 30 * 100).toFixed(2);
+    
+    document.getElementById('progressBar').style.width = `${progress}%`;
+    document.getElementById('progressBar').textContent = `${progress}%`;
+    
+    let achievement = '';
+    if(completed) {
+        if(day === 30) {
+            achievement = '<div class="alert alert-success">🎉 恭喜你完成30天跑步计划！你已经成功养成跑步习惯！</div>';
+        } else {
+            achievement = '<div class="alert alert-info">👏 做得好！继续保持！</div>';
+        }
+    }
+    
+    document.getElementById('achievement').innerHTML = achievement;
+}
+
+// 初始化
+updateWeeklyGoals(1);
+</script>
+
 <h2 id="🏃‍♀️-第一周：起步阶段"><a href="#🏃‍♀️-第一周：起步阶段" class="headerlink" title="🏃‍♀️ 第一周：起步阶段"></a>🏃‍♀️ 第一周：起步阶段</h2><p><strong>目标：</strong> 建立跑步习惯，每次15-20分钟，每周3次。</p>
 <p><strong>解释：</strong> 第一周的重点是让身体适应运动，不要追求速度和距离。慢慢来，享受过程。</p>
 <p><strong>实用建议：</strong></p>
@@ -795,9 +911,9 @@
       
         <a href="/tags/%E8%B7%91%E6%AD%A5/" class="print-no-link">#跑步</a>
       
-        <a href="/tags/%E5%81%A5%E5%BA%B7/" class="print-no-link">#健康</a>
-      
         <a href="/tags/%E8%BF%90%E5%8A%A8/" class="print-no-link">#运动</a>
+      
+        <a href="/tags/%E5%81%A5%E5%BA%B7/" class="print-no-link">#健康</a>
       
         <a href="/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/" class="print-no-link">#自我提升</a>
       
