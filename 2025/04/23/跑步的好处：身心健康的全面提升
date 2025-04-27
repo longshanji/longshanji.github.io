@@ -1,0 +1,819 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" data-default-color-scheme=auto>
+
+
+
+<head>
+  <meta charset="UTF-8">
+
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/fluid.png">
+  <link rel="icon" href="/img/fluid.png">
+  
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+  <meta name="theme-color" content="#2f4154">
+  <meta name="author" content="跑者之心">
+  <meta name="keywords" content="">
+  
+    <meta name="description" content="跑步，一项看似简单的运动，却蕴含着巨大的能量。它不仅能强身健体，还能愉悦身心，是提升生活品质的绝佳方式。你是否也想知道，为什么越来越多的人选择跑步？跑步究竟能给我们带来哪些好处呢？让我们一起探索跑步的魅力！ 跑步对身体的好处跑步对身体的益处是多方面的，涵盖了心血管系统、骨骼肌肉系统以及免疫系统。  增强心血管功能： 跑步能有效提高心率，增强心脏的收缩能力，促进血液循环，降低患心血管疾病的风险。规律">
+<meta property="og:type" content="article">
+<meta property="og:title" content="跑步的好处：身心健康的全面提升">
+<meta property="og:url" content="https://longshanji.github.io/2025/04/23/%E8%B7%91%E6%AD%A5%E7%9A%84%E5%A5%BD%E5%A4%84%EF%BC%9A%E8%BA%AB%E5%BF%83%E5%81%A5%E5%BA%B7%E7%9A%84%E5%85%A8%E9%9D%A2%E6%8F%90%E5%8D%87">
+<meta property="og:site_name" content="Runner&#39;s Heart bolg">
+<meta property="og:description" content="跑步，一项看似简单的运动，却蕴含着巨大的能量。它不仅能强身健体，还能愉悦身心，是提升生活品质的绝佳方式。你是否也想知道，为什么越来越多的人选择跑步？跑步究竟能给我们带来哪些好处呢？让我们一起探索跑步的魅力！ 跑步对身体的好处跑步对身体的益处是多方面的，涵盖了心血管系统、骨骼肌肉系统以及免疫系统。  增强心血管功能： 跑步能有效提高心率，增强心脏的收缩能力，促进血液循环，降低患心血管疾病的风险。规律">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://image.pollinations.ai/prompt/Running%20athlete%20silhouette%20against%20sunrise">
+<meta property="article:published_time" content="2025-04-23T07:42:07.000Z">
+<meta property="article:modified_time" content="2025-04-23T11:54:53.414Z">
+<meta property="article:author" content="跑者之心">
+<meta property="article:tag" content="跑步">
+<meta property="article:tag" content="健康">
+<meta property="article:tag" content="运动">
+<meta property="article:tag" content="身心健康">
+<meta property="article:tag" content="健身">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://image.pollinations.ai/prompt/Running%20athlete%20silhouette%20against%20sunrise">
+  
+  
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+  
+  <title>跑步的好处：身心健康的全面提升 - Runner&#39;s Heart bolg</title>
+
+  <meta name="google-site-verification" content="CssLILLuwSK6qr6SZUJ8NkJEY7y8fk9rima8GnkptOc">
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/twitter-bootstrap/4.6.1/css/bootstrap.min.css" />
+
+
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/github-markdown-css/4.0.0/github-markdown.min.css" />
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/hint.css/2.7.0/hint.min.css" />
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css" />
+
+
+
+<!-- 主题依赖的图标库，不要自行修改 -->
+<!-- Do not modify the link that theme dependent icons -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/c/font_1749284_5i9bdhy70f8.css">
+
+
+
+<link rel="stylesheet" href="//at.alicdn.com/t/c/font_1736178_k526ubmyhba.css">
+
+
+<link  rel="stylesheet" href="/css/main.css" />
+
+
+  <link id="highlight-css" rel="stylesheet" href="/css/highlight.css" />
+  
+    <link id="highlight-css-dark" rel="stylesheet" href="/css/highlight-dark.css" />
+  
+
+
+
+
+  <script id="fluid-configs">
+    var Fluid = window.Fluid || {};
+    Fluid.ctx = Object.assign({}, Fluid.ctx)
+    var CONFIG = {"hostname":"longshanji.github.io","root":"/","version":"1.9.8","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"TEXT"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"right","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":true,"follow_dnt":true,"baidu":null,"google":{"measurement_id":null},"tencent":{"sid":null,"cid":null},"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false},"umami":{"src":null,"website_id":null,"domains":null,"start_time":"2024-01-01T00:00:00.000Z","token":null,"api_server":null},"busuanzi":{"enable":true,"site_pv":true,"site_pv_header":"本站总访问量：","site_pv_footer":"次","site_uv":true,"site_uv_header":"本站访客数：","site_uv_footer":"人","page_pv":true,"page_pv_header":"本文总阅读量：","page_pv_footer":"次"}},"search_path":"/local-search.xml","include_content_in_search":true};
+
+    if (CONFIG.web_analytics.follow_dnt) {
+      var dntVal = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
+      Fluid.ctx.dnt = dntVal && (dntVal.startsWith('1') || dntVal.startsWith('yes') || dntVal.startsWith('on'));
+    }
+  </script>
+  <script  src="/js/utils.js" ></script>
+  <script  src="/js/color-schema.js" ></script>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+  
+<meta name="generator" content="Hexo 7.3.0"></head>
+
+
+<body>
+  
+
+  <header>
+    
+
+<div class="header-inner" style="height: 70vh;">
+  <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
+  <div class="container">
+    <a class="navbar-brand" href="/">
+      <strong>跑者之心</strong>
+    </a>
+
+    <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="animated-icon"><span></span><span></span><span></span></div>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto text-center">
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/" target="_self">
+                <i class="iconfont icon-home-fill"></i>
+                <span>首页</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/archives/" target="_self">
+                <i class="iconfont icon-archive-fill"></i>
+                <span>归档</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/categories/" target="_self">
+                <i class="iconfont icon-category-fill"></i>
+                <span>分类</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/tags/" target="_self">
+                <i class="iconfont icon-tags-fill"></i>
+                <span>标签</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/about/" target="_self">
+                <i class="iconfont icon-user-fill"></i>
+                <span>关于</span>
+              </a>
+            </li>
+          
+        
+        
+          <li class="nav-item" id="search-btn">
+            <a class="nav-link" target="_self" href="javascript:;" data-toggle="modal" data-target="#modalSearch" aria-label="Search">
+              <i class="iconfont icon-search"></i>
+            </a>
+          </li>
+          
+        
+        
+          <li class="nav-item" id="color-toggle-btn">
+            <a class="nav-link" target="_self" href="javascript:;" aria-label="Color Toggle">
+              <i class="iconfont icon-dark" id="color-toggle-icon"></i>
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  
+
+<div id="banner" class="banner" parallax=true
+     style="background: url('/img/default.png') no-repeat center center; background-size: cover;">
+  <div class="full-bg-img">
+    <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
+      <div class="banner-text text-center fade-in-up">
+        <div class="h2">
+          
+            <span id="subtitle" data-typed-text="跑步的好处：身心健康的全面提升"></span>
+          
+        </div>
+
+        
+          
+  <div class="mt-3">
+    
+    
+      <span class="post-meta">
+        <i class="iconfont icon-date-fill" aria-hidden="true"></i>
+        <time datetime="2025-04-23 15:42" pubdate>
+          2025年4月23日 下午
+        </time>
+      </span>
+    
+  </div>
+
+  <div class="mt-1">
+    
+      <span class="post-meta mr-2">
+        <i class="iconfont icon-chart"></i>
+        
+          1.1k 字
+        
+      </span>
+    
+
+    
+      <span class="post-meta mr-2">
+        <i class="iconfont icon-clock-fill"></i>
+        
+        
+        
+          10 分钟
+        
+      </span>
+    
+
+    
+    
+  </div>
+
+
+        
+      </div>
+
+      
+    </div>
+  </div>
+</div>
+
+</div>
+
+  </header>
+
+  <main>
+    
+      
+
+<div class="container-fluid nopadding-x">
+  <div class="row nomargin-x">
+    <div class="side-col d-none d-lg-block col-lg-2">
+      
+  <aside class="sidebar category-bar" style="margin-right: -1rem">
+    
+
+
+
+
+
+<div class="category-list">
+  
+  
+</div>
+
+
+  </aside>
+
+
+    </div>
+
+    <div class="col-lg-8 nopadding-x-md">
+      <div class="container nopadding-x-md" id="board-ctn">
+        <div id="board">
+          <article class="post-content mx-auto">
+            <h1 id="seo-header">跑步的好处：身心健康的全面提升</h1>
+            
+            
+              <div class="markdown-body">
+                
+                <p>跑步，一项看似简单的运动，却蕴含着巨大的能量。它不仅能强身健体，还能愉悦身心，是提升生活品质的绝佳方式。你是否也想知道，为什么越来越多的人选择跑步？跑步究竟能给我们带来哪些好处呢？让我们一起探索跑步的魅力！</p>
+<h2 id="跑步对身体的好处"><a href="#跑步对身体的好处" class="headerlink" title="跑步对身体的好处"></a>跑步对身体的好处</h2><p>跑步对身体的益处是多方面的，涵盖了心血管系统、骨骼肌肉系统以及免疫系统。</p>
+<ul>
+<li><p><strong>增强心血管功能：</strong> 跑步能有效提高心率，增强心脏的收缩能力，促进血液循环，降低患心血管疾病的风险。规律的跑步锻炼，可以让你的心脏更加强壮。</p>
+</li>
+<li><p><strong>强化骨骼和肌肉：</strong> 跑步是一种负重运动，可以有效刺激骨骼生长，增加骨密度，预防骨质疏松。同时，跑步也能锻炼腿部肌肉，增强下肢力量。</p>
+</li>
+<li><p><strong>提高免疫力：</strong> 适量的跑步可以促进免疫细胞的活性，增强机体抵抗力，减少生病的机会。但要注意，过度跑步反而可能降低免疫力，因此要量力而行。</p>
+</li>
+</ul>
+<div class="group-image-container"><div class="group-image-row"><div class="group-image-wrap"><img src="https://image.pollinations.ai/prompt/Running%20athlete%20silhouette%20against%20sunrise" srcset="/img/loading.gif" lazyload alt="Running athlete silhouette"></div><div class="group-image-wrap"><img src="https://image.pollinations.ai/prompt/Close-up%20of%20running%20shoes%20on%20a%20track" srcset="/img/loading.gif" lazyload alt="Close-up of running shoes"></div><div class="group-image-wrap"><img src="https://image.pollinations.ai/prompt/Runner%20stretching%20leg%20muscles%20before%20running" srcset="/img/loading.gif" lazyload alt="Runner stretching leg muscles"></div></div><div class="group-image-row"><div class="group-image-wrap"><img src="https://image.pollinations.ai/prompt/Person%20running%20through%20a%20forest" srcset="/img/loading.gif" lazyload alt="Person running through a forest"></div><div class="group-image-wrap"><img src="https://image.pollinations.ai/prompt/Group%20of%20people%20running%20marathon" srcset="/img/loading.gif" lazyload alt="Group of people running marathon"></div></div></div>
+
+<h2 id="跑步对心理的好处"><a href="#跑步对心理的好处" class="headerlink" title="跑步对心理的好处"></a>跑步对心理的好处</h2><p>跑步不仅对身体有益，对心理健康也有着积极的影响。</p>
+<ul>
+<li><p><strong>缓解压力，释放情绪：</strong> 在跑步的过程中，身体会释放内啡肽，这是一种天然的镇痛剂和情绪调节剂。跑步可以帮助我们缓解压力，释放焦虑、抑郁等负面情绪，让我们感到更加轻松和快乐。</p>
+</li>
+<li><p><strong>提高自信心：</strong> 坚持跑步，完成一个个小目标，会让我们感到成就感，从而提高自信心。当我们看到自己的身体变得更加健康，身材变得更加匀称，也会更加自信。</p>
+</li>
+<li><p><strong>改善睡眠质量：</strong> 适量的跑步可以帮助我们放松身心，改善睡眠质量。但要注意，不要在睡前进行剧烈运动，以免影响睡眠。</p>
+</li>
+</ul>
+<h2 id="跑步的技巧和注意事项"><a href="#跑步的技巧和注意事项" class="headerlink" title="跑步的技巧和注意事项"></a>跑步的技巧和注意事项</h2><p>要想获得跑步带来的好处，需要掌握正确的跑步技巧，并注意一些事项。</p>
+<ul>
+<li><p><strong>选择合适的跑鞋：</strong> 一双合适的跑鞋可以有效保护我们的双脚，减少受伤的风险。建议选择具有良好缓冲和支撑性的跑鞋。</p>
+</li>
+<li><p><strong>注意跑步姿势：</strong> 正确的跑步姿势可以减少能量消耗，提高跑步效率，并预防运动损伤。建议挺直腰背，放松肩膀，手臂自然摆动，脚后跟先着地，然后过渡到前脚掌。</p>
+</li>
+<li><p><strong>循序渐进：</strong> 不要一开始就进行高强度的跑步训练，要循序渐进，逐渐增加跑步的距离和时间。可以从慢跑开始，逐渐过渡到快跑。</p>
+</li>
+<li><p><strong>热身和拉伸：</strong> 在跑步前进行热身，可以提高肌肉的活性，预防肌肉拉伤。在跑步后进行拉伸，可以缓解肌肉酸痛，促进恢复。</p>
+</li>
+</ul>
+<h2 id="跑步数据可视化-Mermaid"><a href="#跑步数据可视化-Mermaid" class="headerlink" title="跑步数据可视化 (Mermaid)"></a>跑步数据可视化 (Mermaid)</h2><p>以下是一个简单的Mermaid图表，展示了跑步距离和时间的关系:</p>
+
+<pre>
+<code class="mermaid" >
+graph LR
+    A[开始] --> B(设置跑步目标: 距离和时间);
+    B --> C{是否达到目标?};
+    C -- 是 --> D[奖励自己!];
+    C -- 否 --> E[分析原因, 调整计划];
+    E --> B;
+    D --> F[结束];
+</code>
+</pre>
+
+<h2 id="跑步数据分析示例-Code-Example"><a href="#跑步数据分析示例-Code-Example" class="headerlink" title="跑步数据分析示例 (Code Example)"></a>跑步数据分析示例 (Code Example)</h2><p>以下Python代码演示了如何分析跑步数据，计算平均速度:</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">import</span> pandas <span class="hljs-keyword">as</span> pd<br><br><span class="hljs-comment"># 假设跑步数据存储在CSV文件中，包含&#x27;时间(分钟)&#x27;和&#x27;距离(公里)&#x27;两列</span><br>data = &#123;<br>    <span class="hljs-string">&#x27;时间(分钟)&#x27;</span>: [<span class="hljs-number">30</span>, <span class="hljs-number">45</span>, <span class="hljs-number">60</span>, <span class="hljs-number">75</span>, <span class="hljs-number">90</span>],<br>    <span class="hljs-string">&#x27;距离(公里)&#x27;</span>: [<span class="hljs-number">5</span>, <span class="hljs-number">7.5</span>, <span class="hljs-number">10</span>, <span class="hljs-number">12.5</span>, <span class="hljs-number">15</span>]<br>&#125;<br><br>df = pd.DataFrame(data)<br><br><span class="hljs-comment"># 计算平均速度 (公里/分钟)</span><br>df[<span class="hljs-string">&#x27;速度(公里/分钟)&#x27;</span>] = df[<span class="hljs-string">&#x27;距离(公里)&#x27;</span>] / df[<span class="hljs-string">&#x27;时间(分钟)&#x27;</span>]<br><br><span class="hljs-comment"># 计算平均速度</span><br>average_speed = df[<span class="hljs-string">&#x27;速度(公里/分钟)&#x27;</span>].mean()<br><br><span class="hljs-built_in">print</span>(<span class="hljs-string">f&quot;平均速度: <span class="hljs-subst">&#123;average_speed&#125;</span> 公里/分钟&quot;</span>)<br></code></pre></td></tr></table></figure>
+
+<h2 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h2><p>跑步的好处是显而易见的，它不仅能改善我们的身体健康，还能提升我们的心理状态。无论你是跑步新手还是资深跑者，都希望你能在跑步中找到乐趣，享受健康的生活。你对跑步有什么看法或经验？欢迎在评论区分享！如果你觉得这篇文章对你有帮助，请分享给你的朋友们吧！让我们一起跑起来，拥抱健康！</p>
+
+                
+              </div>
+            
+            <hr/>
+            <div>
+              <div class="post-metas my-3">
+  
+    <div class="post-meta mr-3 d-flex align-items-center">
+      <i class="iconfont icon-category"></i>
+      
+
+<span class="category-chains">
+  
+  
+    
+      <span class="category-chain">
+        
+  <a href="/categories/%E5%81%A5%E5%BA%B7%E7%94%9F%E6%B4%BB/" class="category-chain-item">健康生活</a>
+  
+  
+
+      </span>
+    
+  
+</span>
+
+    </div>
+  
+  
+    <div class="post-meta">
+      <i class="iconfont icon-tags"></i>
+      
+        <a href="/tags/%E8%B7%91%E6%AD%A5/" class="print-no-link">#跑步</a>
+      
+        <a href="/tags/%E5%81%A5%E5%BA%B7/" class="print-no-link">#健康</a>
+      
+        <a href="/tags/%E8%BF%90%E5%8A%A8/" class="print-no-link">#运动</a>
+      
+        <a href="/tags/%E8%BA%AB%E5%BF%83%E5%81%A5%E5%BA%B7/" class="print-no-link">#身心健康</a>
+      
+        <a href="/tags/%E5%81%A5%E8%BA%AB/" class="print-no-link">#健身</a>
+      
+    </div>
+  
+</div>
+
+
+              
+  
+
+  <div class="license-box my-3">
+    <div class="license-title">
+      <div>跑步的好处：身心健康的全面提升</div>
+      <div>https://longshanji.github.io/2025/04/23/跑步的好处：身心健康的全面提升</div>
+    </div>
+    <div class="license-meta">
+      
+        <div class="license-meta-item">
+          <div>作者</div>
+          <div>跑者之心</div>
+        </div>
+      
+      
+        <div class="license-meta-item license-meta-date">
+          <div>发布于</div>
+          <div>2025年4月23日</div>
+        </div>
+      
+      
+      
+        <div class="license-meta-item">
+          <div>许可协议</div>
+          <div>
+            
+              
+              
+                <a class="print-no-link" target="_blank" href="https://creativecommons.org/licenses/by/4.0/">
+                  <span class="hint--top hint--rounded" aria-label="BY - 署名">
+                    <i class="iconfont icon-cc-by"></i>
+                  </span>
+                </a>
+              
+            
+          </div>
+        </div>
+      
+    </div>
+    <div class="license-icon iconfont"></div>
+  </div>
+
+
+
+              
+                <div class="post-prevnext my-3">
+                  <article class="post-prev col-6">
+                    
+                    
+                      <a href="/2025/04/23/%E8%B7%91%E6%AD%A5%E6%95%99%E6%88%91%E4%B8%80%E4%B8%AA%E9%81%93%E7%90%86%EF%BC%9A%E6%B2%A1%E6%9C%89%E7%99%BD%E8%B4%B9%E7%9A%84%E5%8A%AA%E5%8A%9B" title="跑步教我一个道理：没有白费的努力">
+                        <i class="iconfont icon-arrowleft"></i>
+                        <span class="hidden-mobile">跑步教我一个道理：没有白费的努力</span>
+                        <span class="visible-mobile">上一篇</span>
+                      </a>
+                    
+                  </article>
+                  <article class="post-next col-6">
+                    
+                    
+                      <a href="/2025/04/23/%E8%87%AA%E4%BB%8E%E5%BC%80%E5%A7%8B%E6%85%A2%E8%B7%91%EF%BC%8C%E7%98%A6%E7%9A%84%E6%AF%94%E4%B9%8B%E5%89%8D%E5%BF%AB%E5%A4%9A%E4%BA%86" title="自从开始慢跑，瘦的比之前快多了">
+                        <span class="hidden-mobile">自从开始慢跑，瘦的比之前快多了</span>
+                        <span class="visible-mobile">下一篇</span>
+                        <i class="iconfont icon-arrowright"></i>
+                      </a>
+                    
+                  </article>
+                </div>
+              
+            </div>
+
+            
+  
+  
+    <article id="comments" lazyload>
+      
+  <script type="text/javascript">
+    Fluid.utils.loadComments('#comments', function() {
+      var light = 'github-light';
+      var dark = 'github-dark';
+      var schema = document.documentElement.getAttribute('data-user-color-scheme');
+      if (schema === 'dark') {
+        schema = dark;
+      } else {
+        schema = light;
+      }
+      window.UtterancesThemeLight = light;
+      window.UtterancesThemeDark = dark;
+      var s = document.createElement('script');
+      s.setAttribute('src', 'https://utteranc.es/client.js');
+      s.setAttribute('repo', 'longshanji/longshanji.github.io');
+      s.setAttribute('issue-term', 'title');
+      
+      s.setAttribute('label', 'utterances');
+      
+      s.setAttribute('theme', schema);
+      s.setAttribute('crossorigin', 'anonymous');
+      document.getElementById('comments').appendChild(s);
+    })
+  </script>
+  <noscript>Please enable JavaScript to view the comments</noscript>
+
+
+    </article>
+  
+
+
+          </article>
+        </div>
+      </div>
+    </div>
+
+    <div class="side-col d-none d-lg-block col-lg-2">
+      
+  <aside class="sidebar" style="margin-left: -1rem">
+    <div id="toc">
+  <p class="toc-header">
+    <i class="iconfont icon-list"></i>
+    <span>目录</span>
+  </p>
+  <div class="toc-body" id="toc-body"></div>
+</div>
+
+
+
+  </aside>
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  <script>
+  Fluid.utils.createScript('https://lib.baomitu.com/mermaid/8.14.0/mermaid.min.js', function() {
+    mermaid.initialize({"theme":"default","flowchart":{"useMaxWidth":true}});
+
+    Fluid.utils.listenDOMLoaded(function() {
+      Fluid.events.registerRefreshCallback(function() {
+        if ('mermaid' in window) {
+          mermaid.init();
+        }
+      });
+    });
+  });
+</script>
+
+
+
+
+
+
+    
+
+    
+      <a id="scroll-top-button" aria-label="TOP" href="#" role="button">
+        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
+      </a>
+    
+
+    
+      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">搜索</h4>
+        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <input type="text" id="local-search-input" class="form-control validate">
+          <label data-error="x" data-success="v" for="local-search-input">关键词</label>
+        </div>
+        <div class="list-group" id="local-search-result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+  
+    <div class="footer-content">
+       <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> 
+    </div>
+  
+  
+    <div class="statistics">
+  
+  
+
+  
+    
+      <span id="busuanzi_container_site_pv" style="display: none">
+        本站总访问量 
+        <span id="busuanzi_value_site_pv"></span>
+         次
+      </span>
+    
+    
+      <span id="busuanzi_container_site_uv" style="display: none">
+        本站访客数 
+        <span id="busuanzi_value_site_uv"></span>
+         人
+      </span>
+    
+    
+
+  
+
+</div>
+
+  
+  
+</div>
+
+  </footer>
+
+  <!-- Scripts -->
+  
+  <script  src="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.css" />
+
+  <script>
+    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
+    NProgress.start()
+    window.addEventListener('load', function() {
+      NProgress.done();
+    })
+  </script>
+
+
+<script  src="https://lib.baomitu.com/jquery/3.6.4/jquery.min.js" ></script>
+<script  src="https://lib.baomitu.com/twitter-bootstrap/4.6.1/js/bootstrap.min.js" ></script>
+<script  src="/js/events.js" ></script>
+<script  src="/js/plugins.js" ></script>
+
+
+  <script  src="https://lib.baomitu.com/typed.js/2.0.12/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var subtitle = document.getElementById('subtitle');
+      if (!subtitle || !typing) {
+        return;
+      }
+      var text = subtitle.getAttribute('data-typed-text');
+      
+        typing(text);
+      
+    })(window, document);
+  </script>
+
+
+
+
+  
+    <script  src="/js/img-lazyload.js" ></script>
+  
+
+
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/tocbot/4.20.1/tocbot.min.js', function() {
+    var toc = jQuery('#toc');
+    if (toc.length === 0 || !window.tocbot) { return; }
+    var boardCtn = jQuery('#board-ctn');
+    var boardTop = boardCtn.offset().top;
+
+    window.tocbot.init(Object.assign({
+      tocSelector     : '#toc-body',
+      contentSelector : '.markdown-body',
+      linkClass       : 'tocbot-link',
+      activeLinkClass : 'tocbot-active-link',
+      listClass       : 'tocbot-list',
+      isCollapsedClass: 'tocbot-is-collapsed',
+      collapsibleClass: 'tocbot-is-collapsible',
+      scrollSmooth    : true,
+      includeTitleTags: true,
+      headingsOffset  : -boardTop,
+    }, CONFIG.toc));
+    if (toc.find('.toc-list-item').length > 0) {
+      toc.css('visibility', 'visible');
+    }
+
+    Fluid.events.registerRefreshCallback(function() {
+      if ('tocbot' in window) {
+        tocbot.refresh();
+        var toc = jQuery('#toc');
+        if (toc.length === 0 || !tocbot) {
+          return;
+        }
+        if (toc.find('.toc-list-item').length > 0) {
+          toc.css('visibility', 'visible');
+        }
+      }
+    });
+  });
+</script>
+
+
+  <script src=https://lib.baomitu.com/clipboard.js/2.0.11/clipboard.min.js></script>
+
+  <script>Fluid.plugins.codeWidget();</script>
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/anchor-js/5.0.0/anchor.min.js', function() {
+    window.anchors.options = {
+      placement: CONFIG.anchorjs.placement,
+      visible  : CONFIG.anchorjs.visible
+    };
+    if (CONFIG.anchorjs.icon) {
+      window.anchors.options.icon = CONFIG.anchorjs.icon;
+    }
+    var el = (CONFIG.anchorjs.element || 'h1,h2,h3,h4,h5,h6').split(',');
+    var res = [];
+    for (var item of el) {
+      res.push('.markdown-body > ' + item.trim());
+    }
+    if (CONFIG.anchorjs.placement === 'left') {
+      window.anchors.options.class = 'anchorjs-link-left';
+    }
+    window.anchors.add(res.join(', '));
+
+    Fluid.events.registerRefreshCallback(function() {
+      if ('anchors' in window) {
+        anchors.removeAll();
+        var el = (CONFIG.anchorjs.element || 'h1,h2,h3,h4,h5,h6').split(',');
+        var res = [];
+        for (var item of el) {
+          res.push('.markdown-body > ' + item.trim());
+        }
+        if (CONFIG.anchorjs.placement === 'left') {
+          anchors.options.class = 'anchorjs-link-left';
+        }
+        anchors.add(res.join(', '));
+      }
+    });
+  });
+</script>
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js', function() {
+    Fluid.plugins.fancyBox();
+  });
+</script>
+
+
+  <script>Fluid.plugins.imageCaption();</script>
+
+  <script  src="/js/local-search.js" ></script>
+
+  <script defer src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" ></script>
+
+
+
+
+
+<!-- 主题的启动项，将它保持在最底部 -->
+<!-- the boot of the theme, keep it at the bottom -->
+<script  src="/js/boot.js" ></script>
+
+
+  
+
+  <noscript>
+    <div class="noscript-warning">博客在允许 JavaScript 运行的环境下浏览效果更佳</div>
+  </noscript>
+</body>
+</html>
