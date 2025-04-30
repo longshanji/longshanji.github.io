@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Runner&#39;s Heart blog</title>
-  <icon>https://longshanji.github.io/icon.png</icon>
+  <icon>https://blog.fan-tu.top/icon.png</icon>
   
-  <link href="https://longshanji.github.io/atom.xml" rel="self"/>
+  <link href="https://blog.fan-tu.top/atom.xml" rel="self"/>
   
-  <link href="https://longshanji.github.io/"/>
+  <link href="https://blog.fan-tu.top/"/>
   <updated>2025-04-30T13:58:06.513Z</updated>
-  <id>https://longshanji.github.io/</id>
+  <id>https://blog.fan-tu.top/</id>
   
   <author>
     <name>跑者之心</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>为什么四分配速，是业余跑者的天花板？</title>
-    <link href="https://longshanji.github.io/posts/11404.html"/>
-    <id>https://longshanji.github.io/posts/11404.html</id>
+    <link href="https://blog.fan-tu.top/posts/11404.html"/>
+    <id>https://blog.fan-tu.top/posts/11404.html</id>
     <published>2025-04-30T12:52:37.000Z</published>
     <updated>2025-04-30T13:58:06.513Z</updated>
     
@@ -30,33 +30,33 @@
     
     
     
-    <category term="体育" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/"/>
+    <category term="体育" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
     
     
-    <category term="跑步" scheme="https://longshanji.github.io/tags/%E8%B7%91%E6%AD%A5/"/>
+    <category term="跑步" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5/"/>
     
-    <category term="健康" scheme="https://longshanji.github.io/tags/%E5%81%A5%E5%BA%B7/"/>
+    <category term="健康" scheme="https://blog.fan-tu.top/tags/%E5%81%A5%E5%BA%B7/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/tags/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/tags/%E8%BF%90%E5%8A%A8/"/>
     
-    <category term="自我提升" scheme="https://longshanji.github.io/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
+    <category term="自我提升" scheme="https://blog.fan-tu.top/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
     
-    <category term="running" scheme="https://longshanji.github.io/tags/running/"/>
+    <category term="running" scheme="https://blog.fan-tu.top/tags/running/"/>
     
-    <category term="health" scheme="https://longshanji.github.io/tags/health/"/>
+    <category term="health" scheme="https://blog.fan-tu.top/tags/health/"/>
     
-    <category term="fitness" scheme="https://longshanji.github.io/tags/fitness/"/>
+    <category term="fitness" scheme="https://blog.fan-tu.top/tags/fitness/"/>
     
-    <category term="self-improvement" scheme="https://longshanji.github.io/tags/self-improvement/"/>
+    <category term="self-improvement" scheme="https://blog.fan-tu.top/tags/self-improvement/"/>
     
   </entry>
   
   <entry>
     <title>配速训练揭秘：如何突破你的5公里最佳成绩⏱️</title>
-    <link href="https://longshanji.github.io/posts/3479.html"/>
-    <id>https://longshanji.github.io/posts/3479.html</id>
+    <link href="https://blog.fan-tu.top/posts/3479.html"/>
+    <id>https://blog.fan-tu.top/posts/3479.html</id>
     <published>2025-04-30T03:00:56.000Z</published>
     <updated>2025-04-30T13:58:06.606Z</updated>
     
@@ -67,25 +67,25 @@
     
     
     
-    <category term="体育" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/"/>
+    <category term="体育" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/"/>
     
-    <category term="跑步技巧" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/%E8%B7%91%E6%AD%A5%E6%8A%80%E5%B7%A7/"/>
+    <category term="跑步技巧" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/%E8%B7%91%E6%AD%A5%E6%8A%80%E5%B7%A7/"/>
     
     
-    <category term="跑步" scheme="https://longshanji.github.io/tags/%E8%B7%91%E6%AD%A5/"/>
+    <category term="跑步" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5/"/>
     
-    <category term="训练" scheme="https://longshanji.github.io/tags/%E8%AE%AD%E7%BB%83/"/>
+    <category term="训练" scheme="https://blog.fan-tu.top/tags/%E8%AE%AD%E7%BB%83/"/>
     
-    <category term="配速" scheme="https://longshanji.github.io/tags/%E9%85%8D%E9%80%9F/"/>
+    <category term="配速" scheme="https://blog.fan-tu.top/tags/%E9%85%8D%E9%80%9F/"/>
     
-    <category term="突破" scheme="https://longshanji.github.io/tags/%E7%AA%81%E7%A0%B4/"/>
+    <category term="突破" scheme="https://blog.fan-tu.top/tags/%E7%AA%81%E7%A0%B4/"/>
     
   </entry>
   
   <entry>
     <title>坚持跑步的100个理由：让运动成为习惯</title>
-    <link href="https://longshanji.github.io/posts/41992.html"/>
-    <id>https://longshanji.github.io/posts/41992.html</id>
+    <link href="https://blog.fan-tu.top/posts/41992.html"/>
+    <id>https://blog.fan-tu.top/posts/41992.html</id>
     <published>2025-04-29T01:12:01.000Z</published>
     <updated>2025-04-30T13:58:06.522Z</updated>
     
@@ -96,33 +96,33 @@
     
     
     
-    <category term="体育" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/"/>
+    <category term="体育" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/"/>
     
-    <category term="跑步激励" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/%E8%B7%91%E6%AD%A5%E6%BF%80%E5%8A%B1/"/>
+    <category term="跑步激励" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/%E8%B7%91%E6%AD%A5%E6%BF%80%E5%8A%B1/"/>
     
     
-    <category term="跑步" scheme="https://longshanji.github.io/tags/%E8%B7%91%E6%AD%A5/"/>
+    <category term="跑步" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5/"/>
     
-    <category term="自我提升" scheme="https://longshanji.github.io/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
+    <category term="自我提升" scheme="https://blog.fan-tu.top/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
     
-    <category term="running" scheme="https://longshanji.github.io/tags/running/"/>
+    <category term="running" scheme="https://blog.fan-tu.top/tags/running/"/>
     
-    <category term="self-improvement" scheme="https://longshanji.github.io/tags/self-improvement/"/>
+    <category term="self-improvement" scheme="https://blog.fan-tu.top/tags/self-improvement/"/>
     
-    <category term="动力" scheme="https://longshanji.github.io/tags/%E5%8A%A8%E5%8A%9B/"/>
+    <category term="动力" scheme="https://blog.fan-tu.top/tags/%E5%8A%A8%E5%8A%9B/"/>
     
-    <category term="习惯养成" scheme="https://longshanji.github.io/tags/%E4%B9%A0%E6%83%AF%E5%85%BB%E6%88%90/"/>
+    <category term="习惯养成" scheme="https://blog.fan-tu.top/tags/%E4%B9%A0%E6%83%AF%E5%85%BB%E6%88%90/"/>
     
-    <category term="motivation" scheme="https://longshanji.github.io/tags/motivation/"/>
+    <category term="motivation" scheme="https://blog.fan-tu.top/tags/motivation/"/>
     
-    <category term="habit" scheme="https://longshanji.github.io/tags/habit/"/>
+    <category term="habit" scheme="https://blog.fan-tu.top/tags/habit/"/>
     
   </entry>
   
   <entry>
     <title>跑步后的拉伸指南：15分钟必做恢复动作 🧘‍♂️</title>
-    <link href="https://longshanji.github.io/posts/23577.html"/>
-    <id>https://longshanji.github.io/posts/23577.html</id>
+    <link href="https://blog.fan-tu.top/posts/23577.html"/>
+    <id>https://blog.fan-tu.top/posts/23577.html</id>
     <published>2025-04-29T01:01:43.000Z</published>
     <updated>2025-04-30T13:58:06.567Z</updated>
     
@@ -133,33 +133,33 @@
     
     
     
-    <category term="体育" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/"/>
+    <category term="体育" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/"/>
     
-    <category term="运动健康" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8%E5%81%A5%E5%BA%B7/"/>
+    <category term="运动健康" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8%E5%81%A5%E5%BA%B7/"/>
     
     
-    <category term="跑步" scheme="https://longshanji.github.io/tags/%E8%B7%91%E6%AD%A5/"/>
+    <category term="拉伸" scheme="https://blog.fan-tu.top/tags/%E6%8B%89%E4%BC%B8/"/>
     
-    <category term="健康" scheme="https://longshanji.github.io/tags/%E5%81%A5%E5%BA%B7/"/>
+    <category term="跑步" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5/"/>
     
-    <category term="running" scheme="https://longshanji.github.io/tags/running/"/>
+    <category term="健康" scheme="https://blog.fan-tu.top/tags/%E5%81%A5%E5%BA%B7/"/>
     
-    <category term="health" scheme="https://longshanji.github.io/tags/health/"/>
+    <category term="running" scheme="https://blog.fan-tu.top/tags/running/"/>
     
-    <category term="拉伸" scheme="https://longshanji.github.io/tags/%E6%8B%89%E4%BC%B8/"/>
+    <category term="health" scheme="https://blog.fan-tu.top/tags/health/"/>
     
-    <category term="恢复" scheme="https://longshanji.github.io/tags/%E6%81%A2%E5%A4%8D/"/>
+    <category term="恢复" scheme="https://blog.fan-tu.top/tags/%E6%81%A2%E5%A4%8D/"/>
     
-    <category term="stretching" scheme="https://longshanji.github.io/tags/stretching/"/>
+    <category term="stretching" scheme="https://blog.fan-tu.top/tags/stretching/"/>
     
-    <category term="recovery" scheme="https://longshanji.github.io/tags/recovery/"/>
+    <category term="recovery" scheme="https://blog.fan-tu.top/tags/recovery/"/>
     
   </entry>
   
   <entry>
     <title>跑姿优化指南：从入门到进阶的姿势要领</title>
-    <link href="https://longshanji.github.io/posts/33083.html"/>
-    <id>https://longshanji.github.io/posts/33083.html</id>
+    <link href="https://blog.fan-tu.top/posts/33083.html"/>
+    <id>https://blog.fan-tu.top/posts/33083.html</id>
     <published>2025-04-28T01:40:15.000Z</published>
     <updated>2025-04-30T13:58:06.553Z</updated>
     
@@ -170,33 +170,33 @@
     
     
     
-    <category term="体育" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/"/>
+    <category term="体育" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/"/>
     
-    <category term="跑步技巧" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/%E8%B7%91%E6%AD%A5%E6%8A%80%E5%B7%A7/"/>
+    <category term="跑步技巧" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/%E8%B7%91%E6%AD%A5%E6%8A%80%E5%B7%A7/"/>
     
     
-    <category term="跑步" scheme="https://longshanji.github.io/tags/%E8%B7%91%E6%AD%A5/"/>
+    <category term="跑步" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5/"/>
     
-    <category term="running" scheme="https://longshanji.github.io/tags/running/"/>
+    <category term="running" scheme="https://blog.fan-tu.top/tags/running/"/>
     
-    <category term="技巧" scheme="https://longshanji.github.io/tags/%E6%8A%80%E5%B7%A7/"/>
+    <category term="技巧" scheme="https://blog.fan-tu.top/tags/%E6%8A%80%E5%B7%A7/"/>
     
-    <category term="姿势" scheme="https://longshanji.github.io/tags/%E5%A7%BF%E5%8A%BF/"/>
+    <category term="姿势" scheme="https://blog.fan-tu.top/tags/%E5%A7%BF%E5%8A%BF/"/>
     
-    <category term="训练" scheme="https://longshanji.github.io/tags/%E8%AE%AD%E7%BB%83/"/>
+    <category term="训练" scheme="https://blog.fan-tu.top/tags/%E8%AE%AD%E7%BB%83/"/>
     
-    <category term="technique" scheme="https://longshanji.github.io/tags/technique/"/>
+    <category term="technique" scheme="https://blog.fan-tu.top/tags/technique/"/>
     
-    <category term="posture" scheme="https://longshanji.github.io/tags/posture/"/>
+    <category term="posture" scheme="https://blog.fan-tu.top/tags/posture/"/>
     
-    <category term="training" scheme="https://longshanji.github.io/tags/training/"/>
+    <category term="training" scheme="https://blog.fan-tu.top/tags/training/"/>
     
   </entry>
   
   <entry>
     <title>如何选择适合自己的跑鞋：新手跑者装备指南</title>
-    <link href="https://longshanji.github.io/posts/40810.html"/>
-    <id>https://longshanji.github.io/posts/40810.html</id>
+    <link href="https://blog.fan-tu.top/posts/40810.html"/>
+    <id>https://blog.fan-tu.top/posts/40810.html</id>
     <published>2025-04-28T01:18:04.000Z</published>
     <updated>2025-04-30T13:58:06.521Z</updated>
     
@@ -207,33 +207,33 @@
     
     
     
-    <category term="体育" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/"/>
+    <category term="体育" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/"/>
     
-    <category term="运动装备" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8%E8%A3%85%E5%A4%87/"/>
+    <category term="运动装备" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8%E8%A3%85%E5%A4%87/"/>
     
     
-    <category term="跑步" scheme="https://longshanji.github.io/tags/%E8%B7%91%E6%AD%A5/"/>
+    <category term="跑步" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/tags/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/tags/%E8%BF%90%E5%8A%A8/"/>
     
-    <category term="running" scheme="https://longshanji.github.io/tags/running/"/>
+    <category term="running" scheme="https://blog.fan-tu.top/tags/running/"/>
     
-    <category term="装备" scheme="https://longshanji.github.io/tags/%E8%A3%85%E5%A4%87/"/>
+    <category term="装备" scheme="https://blog.fan-tu.top/tags/%E8%A3%85%E5%A4%87/"/>
     
-    <category term="跑鞋" scheme="https://longshanji.github.io/tags/%E8%B7%91%E9%9E%8B/"/>
+    <category term="跑鞋" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E9%9E%8B/"/>
     
-    <category term="shoes" scheme="https://longshanji.github.io/tags/shoes/"/>
+    <category term="shoes" scheme="https://blog.fan-tu.top/tags/shoes/"/>
     
-    <category term="gear" scheme="https://longshanji.github.io/tags/gear/"/>
+    <category term="gear" scheme="https://blog.fan-tu.top/tags/gear/"/>
     
-    <category term="beginner" scheme="https://longshanji.github.io/tags/beginner/"/>
+    <category term="beginner" scheme="https://blog.fan-tu.top/tags/beginner/"/>
     
   </entry>
   
   <entry>
     <title>避开这些误区，让你的跑步之路更顺畅</title>
-    <link href="https://longshanji.github.io/posts/39137.html"/>
-    <id>https://longshanji.github.io/posts/39137.html</id>
+    <link href="https://blog.fan-tu.top/posts/39137.html"/>
+    <id>https://blog.fan-tu.top/posts/39137.html</id>
     <published>2025-04-27T01:23:02.000Z</published>
     <updated>2025-04-30T13:58:06.608Z</updated>
     
@@ -244,33 +244,33 @@
     
     
     
-    <category term="体育" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/"/>
+    <category term="体育" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
     
     
-    <category term="跑步" scheme="https://longshanji.github.io/tags/%E8%B7%91%E6%AD%A5/"/>
+    <category term="跑步" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5/"/>
     
-    <category term="健康" scheme="https://longshanji.github.io/tags/%E5%81%A5%E5%BA%B7/"/>
+    <category term="健康" scheme="https://blog.fan-tu.top/tags/%E5%81%A5%E5%BA%B7/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/tags/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/tags/%E8%BF%90%E5%8A%A8/"/>
     
-    <category term="自我提升" scheme="https://longshanji.github.io/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
+    <category term="自我提升" scheme="https://blog.fan-tu.top/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
     
-    <category term="running" scheme="https://longshanji.github.io/tags/running/"/>
+    <category term="running" scheme="https://blog.fan-tu.top/tags/running/"/>
     
-    <category term="health" scheme="https://longshanji.github.io/tags/health/"/>
+    <category term="health" scheme="https://blog.fan-tu.top/tags/health/"/>
     
-    <category term="fitness" scheme="https://longshanji.github.io/tags/fitness/"/>
+    <category term="fitness" scheme="https://blog.fan-tu.top/tags/fitness/"/>
     
-    <category term="self-improvement" scheme="https://longshanji.github.io/tags/self-improvement/"/>
+    <category term="self-improvement" scheme="https://blog.fan-tu.top/tags/self-improvement/"/>
     
   </entry>
   
   <entry>
     <title>跑步音乐大推荐：让节奏带动你的脚步</title>
-    <link href="https://longshanji.github.io/posts/36486.html"/>
-    <id>https://longshanji.github.io/posts/36486.html</id>
+    <link href="https://blog.fan-tu.top/posts/36486.html"/>
+    <id>https://blog.fan-tu.top/posts/36486.html</id>
     <published>2025-04-27T01:05:51.000Z</published>
     <updated>2025-04-30T13:58:06.601Z</updated>
     
@@ -281,33 +281,33 @@
     
     
     
-    <category term="体育" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/"/>
+    <category term="体育" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
     
     
-    <category term="跑步" scheme="https://longshanji.github.io/tags/%E8%B7%91%E6%AD%A5/"/>
+    <category term="跑步" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5/"/>
     
-    <category term="健康" scheme="https://longshanji.github.io/tags/%E5%81%A5%E5%BA%B7/"/>
+    <category term="健康" scheme="https://blog.fan-tu.top/tags/%E5%81%A5%E5%BA%B7/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/tags/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/tags/%E8%BF%90%E5%8A%A8/"/>
     
-    <category term="自我提升" scheme="https://longshanji.github.io/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
+    <category term="自我提升" scheme="https://blog.fan-tu.top/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
     
-    <category term="running" scheme="https://longshanji.github.io/tags/running/"/>
+    <category term="running" scheme="https://blog.fan-tu.top/tags/running/"/>
     
-    <category term="health" scheme="https://longshanji.github.io/tags/health/"/>
+    <category term="health" scheme="https://blog.fan-tu.top/tags/health/"/>
     
-    <category term="fitness" scheme="https://longshanji.github.io/tags/fitness/"/>
+    <category term="fitness" scheme="https://blog.fan-tu.top/tags/fitness/"/>
     
-    <category term="self-improvement" scheme="https://longshanji.github.io/tags/self-improvement/"/>
+    <category term="self-improvement" scheme="https://blog.fan-tu.top/tags/self-improvement/"/>
     
   </entry>
   
   <entry>
     <title>跑步让我们明白，生活的每一步都要踏实，才能走得更远。</title>
-    <link href="https://longshanji.github.io/posts/1135.html"/>
-    <id>https://longshanji.github.io/posts/1135.html</id>
+    <link href="https://blog.fan-tu.top/posts/1135.html"/>
+    <id>https://blog.fan-tu.top/posts/1135.html</id>
     <published>2025-04-27T00:53:26.000Z</published>
     <updated>2025-04-30T13:58:06.597Z</updated>
     
@@ -318,33 +318,33 @@
     
     
     
-    <category term="体育" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/"/>
+    <category term="体育" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
     
     
-    <category term="跑步" scheme="https://longshanji.github.io/tags/%E8%B7%91%E6%AD%A5/"/>
+    <category term="跑步" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5/"/>
     
-    <category term="健康" scheme="https://longshanji.github.io/tags/%E5%81%A5%E5%BA%B7/"/>
+    <category term="健康" scheme="https://blog.fan-tu.top/tags/%E5%81%A5%E5%BA%B7/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/tags/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/tags/%E8%BF%90%E5%8A%A8/"/>
     
-    <category term="自我提升" scheme="https://longshanji.github.io/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
+    <category term="自我提升" scheme="https://blog.fan-tu.top/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
     
-    <category term="running" scheme="https://longshanji.github.io/tags/running/"/>
+    <category term="running" scheme="https://blog.fan-tu.top/tags/running/"/>
     
-    <category term="health" scheme="https://longshanji.github.io/tags/health/"/>
+    <category term="health" scheme="https://blog.fan-tu.top/tags/health/"/>
     
-    <category term="fitness" scheme="https://longshanji.github.io/tags/fitness/"/>
+    <category term="fitness" scheme="https://blog.fan-tu.top/tags/fitness/"/>
     
-    <category term="self-improvement" scheme="https://longshanji.github.io/tags/self-improvement/"/>
+    <category term="self-improvement" scheme="https://blog.fan-tu.top/tags/self-improvement/"/>
     
   </entry>
   
   <entry>
     <title>跑步后的美食奖励，你最喜欢哪种？</title>
-    <link href="https://longshanji.github.io/posts/29105.html"/>
-    <id>https://longshanji.github.io/posts/29105.html</id>
+    <link href="https://blog.fan-tu.top/posts/29105.html"/>
+    <id>https://blog.fan-tu.top/posts/29105.html</id>
     <published>2025-04-26T06:30:00.000Z</published>
     <updated>2025-04-30T13:58:06.566Z</updated>
     
@@ -355,27 +355,27 @@
     
     
     
-    <category term="体育" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/"/>
+    <category term="体育" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
     
     
-    <category term="跑步" scheme="https://longshanji.github.io/tags/%E8%B7%91%E6%AD%A5/"/>
+    <category term="跑步" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/tags/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/tags/%E8%BF%90%E5%8A%A8/"/>
     
-    <category term="美食" scheme="https://longshanji.github.io/tags/%E7%BE%8E%E9%A3%9F/"/>
+    <category term="美食" scheme="https://blog.fan-tu.top/tags/%E7%BE%8E%E9%A3%9F/"/>
     
-    <category term="营养" scheme="https://longshanji.github.io/tags/%E8%90%A5%E5%85%BB/"/>
+    <category term="营养" scheme="https://blog.fan-tu.top/tags/%E8%90%A5%E5%85%BB/"/>
     
-    <category term="健康饮食" scheme="https://longshanji.github.io/tags/%E5%81%A5%E5%BA%B7%E9%A5%AE%E9%A3%9F/"/>
+    <category term="健康饮食" scheme="https://blog.fan-tu.top/tags/%E5%81%A5%E5%BA%B7%E9%A5%AE%E9%A3%9F/"/>
     
   </entry>
   
   <entry>
     <title>跑步到底是减压还是增压？来说说你的看法。</title>
-    <link href="https://longshanji.github.io/posts/9775.html"/>
-    <id>https://longshanji.github.io/posts/9775.html</id>
+    <link href="https://blog.fan-tu.top/posts/9775.html"/>
+    <id>https://blog.fan-tu.top/posts/9775.html</id>
     <published>2025-04-26T02:30:00.000Z</published>
     <updated>2025-04-30T13:58:06.563Z</updated>
     
@@ -386,27 +386,27 @@
     
     
     
-    <category term="体育" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/"/>
+    <category term="体育" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
     
     
-    <category term="跑步" scheme="https://longshanji.github.io/tags/%E8%B7%91%E6%AD%A5/"/>
+    <category term="跑步" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/tags/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/tags/%E8%BF%90%E5%8A%A8/"/>
     
-    <category term="减压" scheme="https://longshanji.github.io/tags/%E5%87%8F%E5%8E%8B/"/>
+    <category term="减压" scheme="https://blog.fan-tu.top/tags/%E5%87%8F%E5%8E%8B/"/>
     
-    <category term="压力" scheme="https://longshanji.github.io/tags/%E5%8E%8B%E5%8A%9B/"/>
+    <category term="压力" scheme="https://blog.fan-tu.top/tags/%E5%8E%8B%E5%8A%9B/"/>
     
-    <category term="心理健康" scheme="https://longshanji.github.io/tags/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7/"/>
+    <category term="心理健康" scheme="https://blog.fan-tu.top/tags/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7/"/>
     
   </entry>
   
   <entry>
     <title>跑步的启示：成功不是一蹴而就的旅程</title>
-    <link href="https://longshanji.github.io/posts/19552.html"/>
-    <id>https://longshanji.github.io/posts/19552.html</id>
+    <link href="https://blog.fan-tu.top/posts/19552.html"/>
+    <id>https://blog.fan-tu.top/posts/19552.html</id>
     <published>2025-04-25T07:19:09.000Z</published>
     <updated>2025-04-30T13:58:06.577Z</updated>
     
@@ -417,33 +417,33 @@
     
     
     
-    <category term="体育" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/"/>
+    <category term="体育" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
     
     
-    <category term="跑步" scheme="https://longshanji.github.io/tags/%E8%B7%91%E6%AD%A5/"/>
+    <category term="跑步" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5/"/>
     
-    <category term="健康" scheme="https://longshanji.github.io/tags/%E5%81%A5%E5%BA%B7/"/>
+    <category term="健康" scheme="https://blog.fan-tu.top/tags/%E5%81%A5%E5%BA%B7/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/tags/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/tags/%E8%BF%90%E5%8A%A8/"/>
     
-    <category term="自我提升" scheme="https://longshanji.github.io/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
+    <category term="自我提升" scheme="https://blog.fan-tu.top/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
     
-    <category term="running" scheme="https://longshanji.github.io/tags/running/"/>
+    <category term="running" scheme="https://blog.fan-tu.top/tags/running/"/>
     
-    <category term="health" scheme="https://longshanji.github.io/tags/health/"/>
+    <category term="health" scheme="https://blog.fan-tu.top/tags/health/"/>
     
-    <category term="fitness" scheme="https://longshanji.github.io/tags/fitness/"/>
+    <category term="fitness" scheme="https://blog.fan-tu.top/tags/fitness/"/>
     
-    <category term="self-improvement" scheme="https://longshanji.github.io/tags/self-improvement/"/>
+    <category term="self-improvement" scheme="https://blog.fan-tu.top/tags/self-improvement/"/>
     
   </entry>
   
   <entry>
     <title>风雨无阻，跑出惊喜 💪</title>
-    <link href="https://longshanji.github.io/posts/1800.html"/>
-    <id>https://longshanji.github.io/posts/1800.html</id>
+    <link href="https://blog.fan-tu.top/posts/1800.html"/>
+    <id>https://blog.fan-tu.top/posts/1800.html</id>
     <published>2025-04-25T07:10:58.000Z</published>
     <updated>2025-04-30T13:58:06.535Z</updated>
     
@@ -454,19 +454,19 @@
     
     
     
-    <category term="体育" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/"/>
+    <category term="体育" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
     
     
-    <category term="跑步, 健康, 运动, 自我提升, running, health, fitness, self-improvement" scheme="https://longshanji.github.io/tags/%E8%B7%91%E6%AD%A5-%E5%81%A5%E5%BA%B7-%E8%BF%90%E5%8A%A8-%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87-running-health-fitness-self-improvement/"/>
+    <category term="跑步, 健康, 运动, 自我提升, running, health, fitness, self-improvement" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5-%E5%81%A5%E5%BA%B7-%E8%BF%90%E5%8A%A8-%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87-running-health-fitness-self-improvement/"/>
     
   </entry>
   
   <entry>
     <title>无论你跑得多慢，你都在超越那些坐在沙发上的人。</title>
-    <link href="https://longshanji.github.io/posts/14281.html"/>
-    <id>https://longshanji.github.io/posts/14281.html</id>
+    <link href="https://blog.fan-tu.top/posts/14281.html"/>
+    <id>https://blog.fan-tu.top/posts/14281.html</id>
     <published>2025-04-25T07:05:04.000Z</published>
     <updated>2025-04-30T13:58:06.533Z</updated>
     
@@ -477,33 +477,33 @@
     
     
     
-    <category term="体育" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/"/>
+    <category term="体育" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
     
     
-    <category term="跑步" scheme="https://longshanji.github.io/tags/%E8%B7%91%E6%AD%A5/"/>
+    <category term="跑步" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5/"/>
     
-    <category term="健康" scheme="https://longshanji.github.io/tags/%E5%81%A5%E5%BA%B7/"/>
+    <category term="健康" scheme="https://blog.fan-tu.top/tags/%E5%81%A5%E5%BA%B7/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/tags/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/tags/%E8%BF%90%E5%8A%A8/"/>
     
-    <category term="自我提升" scheme="https://longshanji.github.io/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
+    <category term="自我提升" scheme="https://blog.fan-tu.top/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
     
-    <category term="running" scheme="https://longshanji.github.io/tags/running/"/>
+    <category term="running" scheme="https://blog.fan-tu.top/tags/running/"/>
     
-    <category term="health" scheme="https://longshanji.github.io/tags/health/"/>
+    <category term="health" scheme="https://blog.fan-tu.top/tags/health/"/>
     
-    <category term="fitness" scheme="https://longshanji.github.io/tags/fitness/"/>
+    <category term="fitness" scheme="https://blog.fan-tu.top/tags/fitness/"/>
     
-    <category term="self-improvement" scheme="https://longshanji.github.io/tags/self-improvement/"/>
+    <category term="self-improvement" scheme="https://blog.fan-tu.top/tags/self-improvement/"/>
     
   </entry>
   
   <entry>
     <title>减肥跑步计划：每天30分钟，轻松甩掉赘肉</title>
-    <link href="https://longshanji.github.io/posts/12531.html"/>
-    <id>https://longshanji.github.io/posts/12531.html</id>
+    <link href="https://blog.fan-tu.top/posts/12531.html"/>
+    <id>https://blog.fan-tu.top/posts/12531.html</id>
     <published>2025-04-25T06:58:54.000Z</published>
     <updated>2025-04-30T13:58:06.528Z</updated>
     
@@ -514,33 +514,33 @@
     
     
     
-    <category term="体育" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/"/>
+    <category term="体育" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
     
     
-    <category term="跑步" scheme="https://longshanji.github.io/tags/%E8%B7%91%E6%AD%A5/"/>
+    <category term="跑步" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5/"/>
     
-    <category term="健康" scheme="https://longshanji.github.io/tags/%E5%81%A5%E5%BA%B7/"/>
+    <category term="健康" scheme="https://blog.fan-tu.top/tags/%E5%81%A5%E5%BA%B7/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/tags/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/tags/%E8%BF%90%E5%8A%A8/"/>
     
-    <category term="自我提升" scheme="https://longshanji.github.io/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
+    <category term="自我提升" scheme="https://blog.fan-tu.top/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
     
-    <category term="running" scheme="https://longshanji.github.io/tags/running/"/>
+    <category term="running" scheme="https://blog.fan-tu.top/tags/running/"/>
     
-    <category term="health" scheme="https://longshanji.github.io/tags/health/"/>
+    <category term="health" scheme="https://blog.fan-tu.top/tags/health/"/>
     
-    <category term="fitness" scheme="https://longshanji.github.io/tags/fitness/"/>
+    <category term="fitness" scheme="https://blog.fan-tu.top/tags/fitness/"/>
     
-    <category term="self-improvement" scheme="https://longshanji.github.io/tags/self-improvement/"/>
+    <category term="self-improvement" scheme="https://blog.fan-tu.top/tags/self-improvement/"/>
     
   </entry>
   
   <entry>
     <title>跑步不仅仅是锻炼，这些意想不到的好处你知道吗？</title>
-    <link href="https://longshanji.github.io/posts/58825.html"/>
-    <id>https://longshanji.github.io/posts/58825.html</id>
+    <link href="https://blog.fan-tu.top/posts/58825.html"/>
+    <id>https://blog.fan-tu.top/posts/58825.html</id>
     <published>2025-04-25T06:51:25.000Z</published>
     <updated>2025-04-30T13:58:06.554Z</updated>
     
@@ -551,33 +551,33 @@
     
     
     
-    <category term="体育" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/"/>
+    <category term="体育" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
     
     
-    <category term="跑步" scheme="https://longshanji.github.io/tags/%E8%B7%91%E6%AD%A5/"/>
+    <category term="跑步" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5/"/>
     
-    <category term="健康" scheme="https://longshanji.github.io/tags/%E5%81%A5%E5%BA%B7/"/>
+    <category term="健康" scheme="https://blog.fan-tu.top/tags/%E5%81%A5%E5%BA%B7/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/tags/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/tags/%E8%BF%90%E5%8A%A8/"/>
     
-    <category term="自我提升" scheme="https://longshanji.github.io/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
+    <category term="自我提升" scheme="https://blog.fan-tu.top/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
     
-    <category term="running" scheme="https://longshanji.github.io/tags/running/"/>
+    <category term="running" scheme="https://blog.fan-tu.top/tags/running/"/>
     
-    <category term="health" scheme="https://longshanji.github.io/tags/health/"/>
+    <category term="health" scheme="https://blog.fan-tu.top/tags/health/"/>
     
-    <category term="fitness" scheme="https://longshanji.github.io/tags/fitness/"/>
+    <category term="fitness" scheme="https://blog.fan-tu.top/tags/fitness/"/>
     
-    <category term="self-improvement" scheme="https://longshanji.github.io/tags/self-improvement/"/>
+    <category term="self-improvement" scheme="https://blog.fan-tu.top/tags/self-improvement/"/>
     
   </entry>
   
   <entry>
     <title>长跑还是短跑？了解它们的优劣，选择适合自己的跑步方式</title>
-    <link href="https://longshanji.github.io/posts/63378.html"/>
-    <id>https://longshanji.github.io/posts/63378.html</id>
+    <link href="https://blog.fan-tu.top/posts/63378.html"/>
+    <id>https://blog.fan-tu.top/posts/63378.html</id>
     <published>2025-04-25T06:44:30.000Z</published>
     <updated>2025-04-30T13:58:06.609Z</updated>
     
@@ -588,33 +588,33 @@
     
     
     
-    <category term="体育" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/"/>
+    <category term="体育" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
     
     
-    <category term="跑步" scheme="https://longshanji.github.io/tags/%E8%B7%91%E6%AD%A5/"/>
+    <category term="跑步" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5/"/>
     
-    <category term="健康" scheme="https://longshanji.github.io/tags/%E5%81%A5%E5%BA%B7/"/>
+    <category term="健康" scheme="https://blog.fan-tu.top/tags/%E5%81%A5%E5%BA%B7/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/tags/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/tags/%E8%BF%90%E5%8A%A8/"/>
     
-    <category term="自我提升" scheme="https://longshanji.github.io/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
+    <category term="自我提升" scheme="https://blog.fan-tu.top/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
     
-    <category term="running" scheme="https://longshanji.github.io/tags/running/"/>
+    <category term="running" scheme="https://blog.fan-tu.top/tags/running/"/>
     
-    <category term="health" scheme="https://longshanji.github.io/tags/health/"/>
+    <category term="health" scheme="https://blog.fan-tu.top/tags/health/"/>
     
-    <category term="fitness" scheme="https://longshanji.github.io/tags/fitness/"/>
+    <category term="fitness" scheme="https://blog.fan-tu.top/tags/fitness/"/>
     
-    <category term="self-improvement" scheme="https://longshanji.github.io/tags/self-improvement/"/>
+    <category term="self-improvement" scheme="https://blog.fan-tu.top/tags/self-improvement/"/>
     
   </entry>
   
   <entry>
     <title>跑步姿势大解析：科学跑姿让你跑得更远更快</title>
-    <link href="https://longshanji.github.io/posts/9738.html"/>
-    <id>https://longshanji.github.io/posts/9738.html</id>
+    <link href="https://blog.fan-tu.top/posts/9738.html"/>
+    <id>https://blog.fan-tu.top/posts/9738.html</id>
     <published>2025-04-25T06:21:27.000Z</published>
     <updated>2025-04-30T13:58:06.572Z</updated>
     
@@ -625,37 +625,37 @@
     
     
     
-    <category term="体育" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/"/>
+    <category term="体育" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
     
     
-    <category term="跑步" scheme="https://longshanji.github.io/tags/%E8%B7%91%E6%AD%A5/"/>
+    <category term="跑步" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5/"/>
     
-    <category term="健康" scheme="https://longshanji.github.io/tags/%E5%81%A5%E5%BA%B7/"/>
+    <category term="健康" scheme="https://blog.fan-tu.top/tags/%E5%81%A5%E5%BA%B7/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/tags/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/tags/%E8%BF%90%E5%8A%A8/"/>
     
-    <category term="running" scheme="https://longshanji.github.io/tags/running/"/>
+    <category term="running" scheme="https://blog.fan-tu.top/tags/running/"/>
     
-    <category term="health" scheme="https://longshanji.github.io/tags/health/"/>
+    <category term="health" scheme="https://blog.fan-tu.top/tags/health/"/>
     
-    <category term="fitness" scheme="https://longshanji.github.io/tags/fitness/"/>
+    <category term="fitness" scheme="https://blog.fan-tu.top/tags/fitness/"/>
     
-    <category term="跑姿" scheme="https://longshanji.github.io/tags/%E8%B7%91%E5%A7%BF/"/>
+    <category term="跑姿" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E5%A7%BF/"/>
     
-    <category term="跑步技巧" scheme="https://longshanji.github.io/tags/%E8%B7%91%E6%AD%A5%E6%8A%80%E5%B7%A7/"/>
+    <category term="跑步技巧" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5%E6%8A%80%E5%B7%A7/"/>
     
-    <category term="running form" scheme="https://longshanji.github.io/tags/running-form/"/>
+    <category term="running form" scheme="https://blog.fan-tu.top/tags/running-form/"/>
     
-    <category term="running tips" scheme="https://longshanji.github.io/tags/running-tips/"/>
+    <category term="running tips" scheme="https://blog.fan-tu.top/tags/running-tips/"/>
     
   </entry>
   
   <entry>
     <title>跑步减压神器：通过跑步缓解压力，提升心情</title>
-    <link href="https://longshanji.github.io/posts/33378.html"/>
-    <id>https://longshanji.github.io/posts/33378.html</id>
+    <link href="https://blog.fan-tu.top/posts/33378.html"/>
+    <id>https://blog.fan-tu.top/posts/33378.html</id>
     <published>2025-04-25T06:12:41.000Z</published>
     <updated>2025-04-30T13:58:06.560Z</updated>
     
@@ -666,37 +666,37 @@
     
     
     
-    <category term="体育" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/"/>
+    <category term="体育" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
     
     
-    <category term="跑步" scheme="https://longshanji.github.io/tags/%E8%B7%91%E6%AD%A5/"/>
+    <category term="跑步" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5/"/>
     
-    <category term="running" scheme="https://longshanji.github.io/tags/running/"/>
+    <category term="running" scheme="https://blog.fan-tu.top/tags/running/"/>
     
-    <category term="stress relief" scheme="https://longshanji.github.io/tags/stress-relief/"/>
+    <category term="stress relief" scheme="https://blog.fan-tu.top/tags/stress-relief/"/>
     
-    <category term="endorphins" scheme="https://longshanji.github.io/tags/endorphins/"/>
+    <category term="endorphins" scheme="https://blog.fan-tu.top/tags/endorphins/"/>
     
-    <category term="nature" scheme="https://longshanji.github.io/tags/nature/"/>
+    <category term="nature" scheme="https://blog.fan-tu.top/tags/nature/"/>
     
-    <category term="social" scheme="https://longshanji.github.io/tags/social/"/>
+    <category term="social" scheme="https://blog.fan-tu.top/tags/social/"/>
     
-    <category term="减压" scheme="https://longshanji.github.io/tags/%E5%87%8F%E5%8E%8B/"/>
+    <category term="减压" scheme="https://blog.fan-tu.top/tags/%E5%87%8F%E5%8E%8B/"/>
     
-    <category term="内啡肽" scheme="https://longshanji.github.io/tags/%E5%86%85%E5%95%A1%E8%82%BD/"/>
+    <category term="内啡肽" scheme="https://blog.fan-tu.top/tags/%E5%86%85%E5%95%A1%E8%82%BD/"/>
     
-    <category term="自然" scheme="https://longshanji.github.io/tags/%E8%87%AA%E7%84%B6/"/>
+    <category term="自然" scheme="https://blog.fan-tu.top/tags/%E8%87%AA%E7%84%B6/"/>
     
-    <category term="社交" scheme="https://longshanji.github.io/tags/%E7%A4%BE%E4%BA%A4/"/>
+    <category term="社交" scheme="https://blog.fan-tu.top/tags/%E7%A4%BE%E4%BA%A4/"/>
     
   </entry>
   
   <entry>
     <title>跑步如何配合力量训练，效果加倍？</title>
-    <link href="https://longshanji.github.io/posts/16166.html"/>
-    <id>https://longshanji.github.io/posts/16166.html</id>
+    <link href="https://blog.fan-tu.top/posts/16166.html"/>
+    <id>https://blog.fan-tu.top/posts/16166.html</id>
     <published>2025-04-25T05:11:12.000Z</published>
     <updated>2025-04-30T13:58:06.570Z</updated>
     
@@ -707,30 +707,30 @@
     
     
     
-    <category term="体育" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/"/>
+    <category term="体育" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
     
     
-    <category term="跑步" scheme="https://longshanji.github.io/tags/%E8%B7%91%E6%AD%A5/"/>
+    <category term="跑步" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5/"/>
     
-    <category term="健康" scheme="https://longshanji.github.io/tags/%E5%81%A5%E5%BA%B7/"/>
+    <category term="健康" scheme="https://blog.fan-tu.top/tags/%E5%81%A5%E5%BA%B7/"/>
     
-    <category term="运动" scheme="https://longshanji.github.io/tags/%E8%BF%90%E5%8A%A8/"/>
+    <category term="运动" scheme="https://blog.fan-tu.top/tags/%E8%BF%90%E5%8A%A8/"/>
     
-    <category term="自我提升" scheme="https://longshanji.github.io/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
+    <category term="自我提升" scheme="https://blog.fan-tu.top/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
     
-    <category term="running" scheme="https://longshanji.github.io/tags/running/"/>
+    <category term="running" scheme="https://blog.fan-tu.top/tags/running/"/>
     
-    <category term="health" scheme="https://longshanji.github.io/tags/health/"/>
+    <category term="health" scheme="https://blog.fan-tu.top/tags/health/"/>
     
-    <category term="fitness" scheme="https://longshanji.github.io/tags/fitness/"/>
+    <category term="fitness" scheme="https://blog.fan-tu.top/tags/fitness/"/>
     
-    <category term="self-improvement" scheme="https://longshanji.github.io/tags/self-improvement/"/>
+    <category term="self-improvement" scheme="https://blog.fan-tu.top/tags/self-improvement/"/>
     
-    <category term="strength training" scheme="https://longshanji.github.io/tags/strength-training/"/>
+    <category term="strength training" scheme="https://blog.fan-tu.top/tags/strength-training/"/>
     
-    <category term="力量训练" scheme="https://longshanji.github.io/tags/%E5%8A%9B%E9%87%8F%E8%AE%AD%E7%BB%83/"/>
+    <category term="力量训练" scheme="https://blog.fan-tu.top/tags/%E5%8A%9B%E9%87%8F%E8%AE%AD%E7%BB%83/"/>
     
   </entry>
   
