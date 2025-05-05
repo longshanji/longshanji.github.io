@@ -511,23 +511,6 @@
   <button onclick="shareArticle()" style="background-color:#4CAF50; border:none; color:white; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:5px;">分享我的跑步故事</button>
 </div>
 
-<div class="share-buttons" style="display:flex; gap:10px; justify-content:center; margin:20px 0;">
-  <!-- 微信分享 -->
-  <button onclick="shareToWeixin()" style="background:#07C160; border:none; color:white; padding:8px 15px; border-radius:4px; cursor:pointer;">
-    <i class="fab fa-weixin"></i> 微信
-  </button>
-  
-  <!-- 微博分享 -->
-  <a href="javascript:void(0)" onclick="window.open('https://service.weibo.com/share/share.php?url=' + encodeURIComponent(location.href) + '&title=' + encodeURIComponent(document.title), '_blank', 'width=700,height=500')" style="background:#E6162D; border:none; color:white; padding:8px 15px; border-radius:4px; cursor:pointer; text-decoration:none;">
-    <i class="fab fa-weibo"></i> 微博
-  </a>
-  
-  <!-- QQ分享 -->
-  <a href="javascript:void(0)" onclick="window.open('https://connect.qq.com/widget/shareqq/index.html?url=' + encodeURIComponent(location.href) + '&title=' + encodeURIComponent(document.title), '_blank', 'width=700,height=500')" style="background:#12B7F5; border:none; color:white; padding:8px 15px; border-radius:4px; cursor:pointer; text-decoration:none;">
-    <i class="fab fa-qq"></i> QQ
-  </a>
-</div>
-
 <script>
 function shareArticle() {
   const url = window.location.href;
@@ -547,12 +530,27 @@ function shareArticle() {
     });
   }
 }
+</script>
 
-function shareToWeixin() {
-  // 生成当前页面二维码
-  const qrcode = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=${encodeURIComponent(window.location.href)}`;
+<div class="share-buttons" style="display:flex; gap:10px; justify-content:center; margin:20px 0;">
+  <!-- 微信分享 -->
+  <button onclick="shareToWeixin()" style="background:#07C160; border:none; color:white; padding:8px 15px; border-radius:4px; cursor:pointer;">
+    <i class="fab fa-weixin"></i> 微信
+  </button>
   
-  // 创建弹窗显示二维码
+  <!-- 微博分享 -->
+  <a href="javascript:void(0)" onclick="window.open('https://service.weibo.com/share/share.php?url=' + encodeURIComponent(location.href) + '&title=' + encodeURIComponent(document.title), '_blank', 'width=700,height=500')" style="background:#E6162D; border:none; color:white; padding:8px 15px; border-radius:4px; cursor:pointer; text-decoration:none;">
+    <i class="fab fa-weibo"></i> 微博
+  </a>
+  
+  <!-- QQ分享 -->
+  <a href="javascript:void(0)" onclick="window.open('https://connect.qq.com/widget/shareqq/index.html?url=' + encodeURIComponent(location.href) + '&title=' + encodeURIComponent(document.title), '_blank', 'width=700,height=500')" style="background:#12B7F5; border:none; color:white; padding:8px 15px; border-radius:4px; cursor:pointer; text-decoration:none;">
+    <i class="fab fa-qq"></i> QQ
+  </a>
+</div>
+
+<script>
+function shareToWeixin() {
   const modal = document.createElement('div');
   modal.style = `
     position: fixed;
@@ -565,19 +563,42 @@ function shareToWeixin() {
     box-shadow: 0 0 10px rgba(0,0,0,0.3);
     z-index: 1000;
     text-align: center;
+    min-width: 250px;  /* 添加最小宽度 */
   `;
   
   modal.innerHTML = `
-    <h4>使用微信扫描二维码分享</h4>
-    <img src="${qrcode}" srcset="/img/loading.gif" lazyload alt="分享二维码" style="max-width:150px"/>
-    <p style="margin-top:10px">
-      <button onclick="this.parentElement.parentElement.remove()" style="background:#07C160; color:white; border:none; padding:5px 10px; border-radius:4px; cursor:pointer;">
-        关闭
-      </button>
+    <h4 style="margin-bottom: 15px;">使用微信扫描二维码分享</h4>
+    <div id="qrcode" style="
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0 auto;
+      width: 150px;
+      height: 150px;
+    "></div>
+    <p style="margin-top: 15px;">
+      <button onclick="this.parentElement.parentElement.remove()" style="
+        background: #07C160;
+        color: white;
+        border: none;
+        padding: 8px 20px;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 14px;
+      ">关闭</button>
     </p>
   `;
   
   document.body.appendChild(modal);
+  
+  new QRCode(document.getElementById("qrcode"), {
+    text: window.location.href,
+    width: 150,
+    height: 150,
+    colorDark: "#000000",
+    colorLight: "#ffffff",
+    correctLevel: QRCode.CorrectLevel.H
+  });
 }
 
 // 添加复制链接功能
@@ -586,6 +607,9 @@ document.querySelectorAll('.share-buttons button, .share-buttons a').forEach(btn
   btn.addEventListener('mouseout', () => btn.style.opacity = '1');
 });
 </script>
+
+<!-- 引入 QRCode.js -->
+<script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
 
 <!-- 文章底部访问统计 -->
 <div class="post-meta" style="margin-top: 20px; text-align: right;">
