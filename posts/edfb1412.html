@@ -17,7 +17,7 @@
   
   <meta name="theme-color" content="#2f4154">
   <meta name="author" content="跑者之心">
-  <meta name="keywords" content="善用图表,运动心得,健康生活方式,跑步经验">
+  <meta name="keywords" content="数据可视化,Mermaid教程,思维导图制作,博客图表优化,跑步训练计划">
   
     <meta name="description" content="如何利用 Mermaid 和 Markmap 等工具,让跑步文章更加生动形象?本文为你详细解析各类图表的应用场景和制作方法。">
 <meta property="og:type" content="article">
@@ -256,7 +256,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          856 字
+          1.2k 字
         
       </span>
     
@@ -267,7 +267,7 @@
         
         
         
-          8 分钟
+          11 分钟
         
       </span>
     
@@ -432,6 +432,37 @@
 <li>数据展示清晰</li>
 <li>简单易懂</li>
 </ul>
+<h2 id="💡-实战案例"><a href="#💡-实战案例" class="headerlink" title="💡 实战案例"></a>💡 实战案例</h2><h3 id="1-跑步进阶计划图解"><a href="#1-跑步进阶计划图解" class="headerlink" title="1. 跑步进阶计划图解"></a>1. 跑步进阶计划图解</h3><pre><code class=" mermaid">graph LR
+    A[新手跑者] --&gt; B[5K完赛]
+    B --&gt; C[10K突破]
+    C --&gt; D[半马准备]
+    D --&gt; E[全马挑战]
+    
+    style A fill:#d5e8d4,stroke:#82b366
+    style B fill:#dae8fc,stroke:#6c8ebf
+    style C fill:#ffe6cc,stroke:#d79b00
+    style D fill:#fff2cc,stroke:#d6b656
+    style E fill:#f8cecc,stroke:#b85450
+</code></pre>
+
+<h3 id="2-心率区间训练分布"><a href="#2-心率区间训练分布" class="headerlink" title="2. 心率区间训练分布"></a>2. 心率区间训练分布</h3><pre><code class=" mermaid">pie
+    title 一周训练心率区间分配
+    &quot;Z1(60-70%)&quot; : 40
+    &quot;Z2(70-80%)&quot; : 30
+    &quot;Z3(80-90%)&quot; : 20
+    &quot;Z4(90-100%)&quot; : 10
+</code></pre>
+
+<h2 id="🎯-图表最佳实践"><a href="#🎯-图表最佳实践" class="headerlink" title="🎯 图表最佳实践"></a>🎯 图表最佳实践</h2><h3 id="配色建议"><a href="#配色建议" class="headerlink" title="配色建议"></a>配色建议</h3><ul>
+<li>深色背景：使用高对比度颜色</li>
+<li>浅色背景：使用柔和色调</li>
+<li>重要信息：使用醒目的强调色</li>
+</ul>
+<h3 id="布局技巧"><a href="#布局技巧" class="headerlink" title="布局技巧"></a>布局技巧</h3><ul>
+<li>保持图表简洁</li>
+<li>控制层级深度（不超过4层）</li>
+<li>合理使用空间</li>
+</ul>
 <h2 id="📌-使用技巧"><a href="#📌-使用技巧" class="headerlink" title="📌 使用技巧"></a>📌 使用技巧</h2><ol>
 <li><p><strong>选择合适的图表类型</strong></p>
 <ul>
@@ -456,6 +487,17 @@
 </ul>
 </li>
 </ol>
+<h2 id="❓-FAQ"><a href="#❓-FAQ" class="headerlink" title="❓ FAQ"></a>❓ FAQ</h2><h3 id="如何选择合适的图表类型？"><a href="#如何选择合适的图表类型？" class="headerlink" title="如何选择合适的图表类型？"></a>如何选择合适的图表类型？</h3><ul>
+<li>流程图：展示步骤和决策</li>
+<li>思维导图：展示层级和分类</li>
+<li>甘特图：展示时间和进度</li>
+<li>饼图：展示占比和分布</li>
+</ul>
+<h3 id="图表绘制工具推荐"><a href="#图表绘制工具推荐" class="headerlink" title="图表绘制工具推荐"></a>图表绘制工具推荐</h3><ol>
+<li>Mermaid（代码绘图）</li>
+<li>Draw.io（在线绘图）</li>
+<li>PlantUML（UML图表）</li>
+</ol>
 <h2 id="🤝-小结"><a href="#🤝-小结" class="headerlink" title="🤝 小结"></a>🤝 小结</h2><p>合理使用图表不仅能让文章更加生动,还能帮助读者更好地理解内容。选择合适的图表类型,搭配恰当的样式,才能达到最好的展示效果。</p>
 <hr>
 <p><strong>参考资料：</strong></p>
@@ -467,6 +509,23 @@
 <div style="text-align:center; margin-top:20px;">
   <p>觉得这篇文章对你有帮助吗？快来评论区分享你的想法吧！</p>
   <button onclick="shareArticle()" style="background-color:#4CAF50; border:none; color:white; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:5px;">分享我的跑步故事</button>
+</div>
+
+<div class="share-buttons" style="display:flex; gap:10px; justify-content:center; margin:20px 0;">
+  <!-- 微信分享 -->
+  <button onclick="shareToWeixin()" style="background:#07C160; border:none; color:white; padding:8px 15px; border-radius:4px; cursor:pointer;">
+    <i class="fab fa-weixin"></i> 微信
+  </button>
+  
+  <!-- 微博分享 -->
+  <a href="javascript:void(0)" onclick="window.open('https://service.weibo.com/share/share.php?url=' + encodeURIComponent(location.href) + '&title=' + encodeURIComponent(document.title), '_blank', 'width=700,height=500')" style="background:#E6162D; border:none; color:white; padding:8px 15px; border-radius:4px; cursor:pointer; text-decoration:none;">
+    <i class="fab fa-weibo"></i> 微博
+  </a>
+  
+  <!-- QQ分享 -->
+  <a href="javascript:void(0)" onclick="window.open('https://connect.qq.com/widget/shareqq/index.html?url=' + encodeURIComponent(location.href) + '&title=' + encodeURIComponent(document.title), '_blank', 'width=700,height=500')" style="background:#12B7F5; border:none; color:white; padding:8px 15px; border-radius:4px; cursor:pointer; text-decoration:none;">
+    <i class="fab fa-qq"></i> QQ
+  </a>
 </div>
 
 <script>
@@ -488,6 +547,44 @@ function shareArticle() {
     });
   }
 }
+
+function shareToWeixin() {
+  // 生成当前页面二维码
+  const qrcode = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=${encodeURIComponent(window.location.href)}`;
+  
+  // 创建弹窗显示二维码
+  const modal = document.createElement('div');
+  modal.style = `
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    z-index: 1000;
+    text-align: center;
+  `;
+  
+  modal.innerHTML = `
+    <h4>使用微信扫描二维码分享</h4>
+    <img src="${qrcode}" srcset="/img/loading.gif" lazyload alt="分享二维码" style="max-width:150px"/>
+    <p style="margin-top:10px">
+      <button onclick="this.parentElement.parentElement.remove()" style="background:#07C160; color:white; border:none; padding:5px 10px; border-radius:4px; cursor:pointer;">
+        关闭
+      </button>
+    </p>
+  `;
+  
+  document.body.appendChild(modal);
+}
+
+// 添加复制链接功能
+document.querySelectorAll('.share-buttons button, .share-buttons a').forEach(btn => {
+  btn.addEventListener('mouseover', () => btn.style.opacity = '0.8');
+  btn.addEventListener('mouseout', () => btn.style.opacity = '1');
+});
 </script>
 
 <!-- 文章底部访问统计 -->
