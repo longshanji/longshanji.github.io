@@ -256,7 +256,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          985 字
+          1.1k 字
         
       </span>
     
@@ -267,7 +267,7 @@
         
         
         
-          9 分钟
+          10 分钟
         
       </span>
     
@@ -1005,29 +1005,94 @@
 <li>体能分配</li>
 <li>技术细节</li>
 </ul>
-<h2 id="📱-训练监控工具"><a href="#📱-训练监控工具" class="headerlink" title="📱 训练监控工具"></a>📱 训练监控工具</h2><div class="training-calculator" style="border:1px solid #ddd; padding:20px; border-radius:8px; margin:20px 0; background:#f8f9fa;">
-    <h4 style="color:#4CAF50; margin-bottom:15px;">⚡ 跑步效率计算器</h4>
-    <div class="calculator-inputs" style="display:flex; flex-direction:column; gap:12px;">
+<h2 id="📱-训练监控工具"><a href="#📱-训练监控工具" class="headerlink" title="📱 训练监控工具"></a>📱 训练监控工具</h2><!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>跑步效率计算器</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background-color: #f4f6f7;
+        }
+        .training-calculator {
+            border: 1px solid #ddd;
+            padding: 20px;
+            border-radius: 8px;
+            background: #f8f9fa;
+            max-width: 400px;
+            margin: 0 auto;
+        }
+        .training-calculator h4 {
+            color: #4CAF50;
+            margin-bottom: 15px;
+        }
+        .calculator-inputs {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        .input-group {
+            display: flex;
+            flex-direction: column;
+        }
+        .input-group label {
+            margin-bottom: 5px;
+        }
+        .input-group input {
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            width: 200px;
+        }
+        button {
+            background: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px;
+            border-radius: 4px;
+            margin-top: 10px;
+            cursor: pointer;
+        }
+        #efficiency-result {
+            margin-top: 15px;
+            padding: 10px;
+            background: #e8f5e9;
+            border-radius: 4px;
+            display: none;
+        }
+        small {
+            font-size: 0.85em;
+            color: #666;
+        }
+        #heartRateWarning {
+            color: #f44336;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+<div class="training-calculator">
+    <h4>⚡ 跑步效率计算器</h4>
+    <div class="calculator-inputs">
         <div class="input-group">
-            <label for="speed" style="display:block; margin-bottom:5px;">配速 (分钟/公里):</label>
-            <input type="number" id="speed" min="3" max="15" step="0.1" value="6.0" 
-                   style="padding:8px; border:1px solid #ddd; border-radius:4px; width:200px;">
+            <label for="speed">配速 (分钟/公里):</label>
+            <input type="number" id="speed" min="3" max="15" step="0.1" value="6.0">
         </div>
         <div class="input-group">
-            <label for="heartRate" style="display:block; margin-bottom:5px;">心率 (次/分):</label>
-            <input type="number" id="heartRate" min="100" max="200" step="1" value="150"
-                   style="padding:8px; border:1px solid #ddd; border-radius:4px; width:200px;">
+            <label for="heartRate">心率 (次/分):</label>
+            <input type="number" id="heartRate" min="100" max="200" step="1" value="150">
+            <small>建议范围: 100-200次/分</small>
+            <small id="heartRateWarning">请输入100~200之间的数值</small>
         </div>
         <div class="input-group">
-            <label for="distance" style="display:block; margin-bottom:5px;">距离 (公里):</label>
-            <input type="number" id="distance" min="1" max="100" step="0.1" value="5.0"
-                   style="padding:8px; border:1px solid #ddd; border-radius:4px; width:200px;">
+            <label for="distance">距离 (公里):</label>
+            <input type="number" id="distance" min="1" max="100" step="0.1" value="5.0">
         </div>
-        <button onclick="calculateRunningEfficiency()" 
-                style="background:#4CAF50; color:white; border:none; padding:10px; border-radius:4px; margin-top:10px; cursor:pointer;">
-            计算效率指数
-        </button>
-        <div id="efficiency-result" style="margin-top:15px; padding:10px; background:#e8f5e9; border-radius:4px; display:none;">
+        <button onclick="calculateRunningEfficiency()">计算效率指数</button>
+        <div id="efficiency-result">
             <p style="margin:0; font-weight:bold;">跑步效率指数: <span id="efficiency-value">-</span></p>
             <p style="margin:5px 0 0 0; font-size:0.9em; color:#666;">
                 参考值: &lt;0.8 需改进 | 0.8-1.2 良好 | &gt;1.2 优秀
@@ -1039,44 +1104,51 @@
 <script>
 function calculateRunningEfficiency() {
     const speed = parseFloat(document.getElementById('speed').value);
-    const heartRate = parseFloat(document.getElementById('heartRate').value);
+    const heartRateInput = document.getElementById('heartRate');
+    const heartRate = parseInt(heartRateInput.value);
     const distance = parseFloat(document.getElementById('distance').value);
+    const heartRateWarning = document.getElementById('heartRateWarning');
     
+    // 基本输入验证
     if (isNaN(speed) || isNaN(heartRate) || isNaN(distance)) {
         alert('请输入有效数值！');
         return;
     }
-    
-    // 计算效率指数
+
+    // 心率范围验证
+    if (heartRate < 100 || heartRate > 200) {
+        heartRateWarning.style.display = 'block';
+        return;
+    } else {
+        heartRateWarning.style.display = 'none';
+    }
+
+    // 效率计算公式
     const efficiency = ((distance / speed) * 60 * distance) / heartRate;
     const efficiencyRounded = Math.round(efficiency * 100) / 100;
-    
+
     // 显示结果
     const resultDiv = document.getElementById('efficiency-result');
     const valueSpan = document.getElementById('efficiency-value');
     
     resultDiv.style.display = 'block';
     valueSpan.textContent = efficiencyRounded;
-    
-    // 根据效率值改变颜色
+
+    // 上色显示区分
     if (efficiency < 0.8) {
-        valueSpan.style.color = '#f44336';
+        valueSpan.style.color = '#f44336'; // 红色：需改进
     } else if (efficiency > 1.2) {
-        valueSpan.style.color = '#4CAF50';
+        valueSpan.style.color = '#4CAF50'; // 绿色：优秀
     } else {
-        valueSpan.style.color = '#2196F3';
+        valueSpan.style.color = '#2196F3'; // 蓝色：良好
     }
 }
-
-// 输入验证
-document.querySelectorAll('.calculator-inputs input').forEach(input => {
-    input.addEventListener('input', function() {
-        const value = parseFloat(this.value);
-        if (value < parseFloat(this.min)) this.value = this.min;
-        if (value > parseFloat(this.max)) this.value = this.max;
-    });
-});
 </script>
+
+</body>
+</html>
+
+
 
 <h2 id="🎯-效率提升核心策略"><a href="#🎯-效率提升核心策略" class="headerlink" title="🎯 效率提升核心策略"></a>🎯 效率提升核心策略</h2><ol>
 <li><p><strong>循序渐进</strong></p>
