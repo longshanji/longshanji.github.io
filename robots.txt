@@ -1,21 +1,39 @@
-User-agent: *
-
-# 允许访问的目录
+User-agent: Googlebot
 Allow: /
 Allow: /posts/
 Allow: /archives/
 Allow: /categories/
 Allow: /tags/
-Allow: /about/
-Allow: /rss/
-
-# 禁止访问的目录
 Disallow: /js/
 Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
-Disallow: /lib/
-Disallow: /images/
+
+User-agent: Bingbot
+Allow: /
+Allow: /posts/
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Disallow: /js/
+Disallow: /css/
+
+User-agent: Baiduspider
+Allow: /
+Allow: /posts/
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Disallow: /js/
+Disallow: /css/
+
+# 其他爬虫
+User-agent: *
+Allow: /
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
 Disallow: /*.json$
 Disallow: /*.js$
 Disallow: /*.css$
