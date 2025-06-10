@@ -490,11 +490,11 @@
       
       <tag>跑步训练 (Running Training)</tag>
       
-      <tag>运动生理学 (Exercise Physiology)</tag>
-      
       <tag>间歇跑 (Interval Running)</tag>
       
       <tag>提高速度 (Speed Improvement)</tag>
+      
+      <tag>运动生理学 (Exercise Physiology)</tag>
       
     </tags>
     
@@ -521,15 +521,15 @@
     
     <tags>
       
-      <tag>跑步效率 (Running Efficiency)</tag>
+      <tag>运动生理学 (Exercise Physiology)</tag>
       
       <tag>长跑技巧 (Long Distance Running Techniques)</tag>
       
       <tag>呼吸控制 (Breathing Control)</tag>
       
-      <tag>运动生理学 (Exercise Physiology)</tag>
-      
       <tag>耐力训练 (Endurance Training)</tag>
+      
+      <tag>跑步效率 (Running Efficiency)</tag>
       
     </tags>
     
@@ -556,11 +556,11 @@
     
     <tags>
       
+      <tag>耐力训练 (Endurance Training)</tag>
+      
       <tag>跑步效率 (Running Efficiency)</tag>
       
       <tag>跑步技巧 (Running Tips)</tag>
-      
-      <tag>耐力训练 (Endurance Training)</tag>
       
       <tag>跑步姿势 (Running Posture)</tag>
       
@@ -591,9 +591,9 @@
     
     <tags>
       
-      <tag>跑步效率 (Running Efficiency)</tag>
-      
       <tag>跑步训练 (Running Training)</tag>
+      
+      <tag>跑步效率 (Running Efficiency)</tag>
       
       <tag>跑步技巧 (Running Tips)</tag>
       
@@ -628,13 +628,13 @@
     
     <tags>
       
-      <tag>跑步训练 (Running Training)</tag>
-      
       <tag>体测 (Physical Examination)</tag>
       
       <tag>跑步技巧 (Running Skills)</tag>
       
       <tag>应对策略 (Coping Strategies)</tag>
+      
+      <tag>跑步训练 (Running Training)</tag>
       
       <tag>考试技巧 (Exam Skills)</tag>
       
@@ -1120,6 +1120,8 @@
     
     <tags>
       
+      <tag>拉伸</tag>
+      
       <tag>跑步</tag>
       
       <tag>健康</tag>
@@ -1127,8 +1129,6 @@
       <tag>running</tag>
       
       <tag>health</tag>
-      
-      <tag>拉伸</tag>
       
       <tag>恢复</tag>
       
@@ -2390,9 +2390,9 @@
     
     <tags>
       
-      <tag>跑步</tag>
-      
       <tag>拉伸</tag>
+      
+      <tag>跑步</tag>
       
     </tags>
     
@@ -2539,9 +2539,9 @@
     
     <tags>
       
-      <tag>跑步</tag>
-      
       <tag>拉伸</tag>
+      
+      <tag>跑步</tag>
       
     </tags>
     
@@ -2680,9 +2680,9 @@
     
     <tags>
       
-      <tag>跑步</tag>
-      
       <tag>拉伸</tag>
+      
+      <tag>跑步</tag>
       
     </tags>
     
@@ -2889,9 +2889,9 @@
     
     <tags>
       
-      <tag>跑步</tag>
-      
       <tag>拉伸</tag>
+      
+      <tag>跑步</tag>
       
     </tags>
     
