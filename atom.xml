@@ -474,6 +474,8 @@
     <category term="运动" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
     
     
+    <category term="跑步效率 (Running Efficiency)" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5%E6%95%88%E7%8E%87-Running-Efficiency/"/>
+    
     <category term="运动生理学 (Exercise Physiology)" scheme="https://blog.fan-tu.top/tags/%E8%BF%90%E5%8A%A8%E7%94%9F%E7%90%86%E5%AD%A6-Exercise-Physiology/"/>
     
     <category term="长跑技巧 (Long Distance Running Techniques)" scheme="https://blog.fan-tu.top/tags/%E9%95%BF%E8%B7%91%E6%8A%80%E5%B7%A7-Long-Distance-Running-Techniques/"/>
@@ -481,8 +483,6 @@
     <category term="呼吸控制 (Breathing Control)" scheme="https://blog.fan-tu.top/tags/%E5%91%BC%E5%90%B8%E6%8E%A7%E5%88%B6-Breathing-Control/"/>
     
     <category term="耐力训练 (Endurance Training)" scheme="https://blog.fan-tu.top/tags/%E8%80%90%E5%8A%9B%E8%AE%AD%E7%BB%83-Endurance-Training/"/>
-    
-    <category term="跑步效率 (Running Efficiency)" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5%E6%95%88%E7%8E%87-Running-Efficiency/"/>
     
   </entry>
   
@@ -505,11 +505,11 @@
     <category term="运动" scheme="https://blog.fan-tu.top/categories/%E4%BD%93%E8%82%B2/%E8%BF%90%E5%8A%A8/"/>
     
     
-    <category term="耐力训练 (Endurance Training)" scheme="https://blog.fan-tu.top/tags/%E8%80%90%E5%8A%9B%E8%AE%AD%E7%BB%83-Endurance-Training/"/>
-    
     <category term="跑步效率 (Running Efficiency)" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5%E6%95%88%E7%8E%87-Running-Efficiency/"/>
     
     <category term="跑步技巧 (Running Tips)" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5%E6%8A%80%E5%B7%A7-Running-Tips/"/>
+    
+    <category term="耐力训练 (Endurance Training)" scheme="https://blog.fan-tu.top/tags/%E8%80%90%E5%8A%9B%E8%AE%AD%E7%BB%83-Endurance-Training/"/>
     
     <category term="跑步姿势 (Running Posture)" scheme="https://blog.fan-tu.top/tags/%E8%B7%91%E6%AD%A5%E5%A7%BF%E5%8A%BF-Running-Posture/"/>
     
